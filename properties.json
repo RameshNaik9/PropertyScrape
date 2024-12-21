@@ -134,18 +134,6 @@
     {
         "price": "£160,000",
         "price_qualifier": null,
-        "displayAddress": "Woodgate, Liverpool, L27",
-        "summary": "This well-presented mid-terrace family home, located in the popular area of Woodgate, Liverpool, offers a comfortable living space perfect for modern family life. Upon entering the property, you are welcomed into a spacious entrance hall leading to the versatile living/dining room, a generous spa...",
-        "phone_number": "020 3907 2647",
-        "propertySubType": "Terraced",
-        "bedrooms": "3",
-        "bathrooms": "1",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 19/11/2024 by Purplebricks, covering Liverpool"
-    },
-    {
-        "price": "£160,000",
-        "price_qualifier": null,
         "displayAddress": "Barnstream Close, Netherley, Liverpool, L27",
         "summary": "Move Residential are thrilled to introduce to the sales market this delightful three bedroom mid terrace home on Barnstream Close, in the favoured residential area of Netherley, L27. Offering generously proportioned and beautifully presented accommodation throughout, this home is ready to be move...",
         "phone_number": "0151 453 1497",
@@ -156,16 +144,16 @@
         "addedOrReduced": "Added on 27/08/2024 by Move Residential, Mossley Hill"
     },
     {
-        "price": "£155,000",
-        "price_qualifier": "Offers in Excess of",
-        "displayAddress": "Bramblewood Close, Netherley, Liverpool, Merseyside, L27",
-        "summary": "Brouught to the market is this 4 bedroom terrace property in the popular L27 area.",
-        "phone_number": "0151 453 3725",
+        "price": "£160,000",
+        "price_qualifier": null,
+        "displayAddress": "Woodgate, Liverpool, L27",
+        "summary": "This well-presented mid-terrace family home, located in the popular area of Woodgate, Liverpool, offers a comfortable living space perfect for modern family life. Upon entering the property, you are welcomed into a spacious entrance hall leading to the versatile living/dining room, a generous spa...",
+        "phone_number": "020 3907 2647",
         "propertySubType": "Terraced",
-        "bedrooms": "4",
-        "bathrooms": "2",
+        "bedrooms": "3",
+        "bathrooms": "1",
         "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 28/05/2024 by Whitegates, Woolton"
+        "addedOrReduced": "Added on 19/11/2024 by Purplebricks, covering Liverpool"
     },
     {
         "price": "£155,000",
@@ -178,6 +166,18 @@
         "bathrooms": "1",
         "displayStatus": "SOLD STC",
         "addedOrReduced": "Added on 04/06/2024 by Whitegates, Woolton"
+    },
+    {
+        "price": "£155,000",
+        "price_qualifier": "Offers in Excess of",
+        "displayAddress": "Bramblewood Close, Netherley, Liverpool, Merseyside, L27",
+        "summary": "Brouught to the market is this 4 bedroom terrace property in the popular L27 area.",
+        "phone_number": "0151 453 3725",
+        "propertySubType": "Terraced",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 28/05/2024 by Whitegates, Woolton"
     },
     {
         "price": "£150,000",
@@ -217,18 +217,6 @@
     },
     {
         "price": "£140,000",
-        "price_qualifier": null,
-        "displayAddress": "Parkview Drive, Netherley, Liverpool",
-        "summary": "Cameron Mackenzie are pleased to offer for sale this mid terraced property situated in an established residential area of Liverpool. The accommodation briefly comprises of entrance hall, ground floor WC, through lounge/dining room, fitted kitchen, three bedrooms, bedroom three currently bei (cont.)",
-        "phone_number": "0151 453 8807",
-        "propertySubType": "Terraced",
-        "bedrooms": "3",
-        "bathrooms": "1",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 16/11/2024 by Cameron Mackenzie, Huyton"
-    },
-    {
-        "price": "£140,000",
         "price_qualifier": "Offers in Excess of",
         "displayAddress": "Sharwood Road, Liverpool, L27",
         "summary": "Set in a fantastic position in the sought after location of L27 is this delightful three bedroom terraced property which provides excellent living space. Perfect for first time buyers or for those looking for a starter home for their young family, this delightful property has a great deal to offer.",
@@ -238,6 +226,18 @@
         "bathrooms": "2",
         "displayStatus": "SOLD STC",
         "addedOrReduced": "Reduced on 03/10/2024 by Yopa, North West & Midlands"
+    },
+    {
+        "price": "£140,000",
+        "price_qualifier": null,
+        "displayAddress": "Parkview Drive, Netherley, Liverpool",
+        "summary": "Cameron Mackenzie are pleased to offer for sale this mid terraced property situated in an established residential area of Liverpool. The accommodation briefly comprises of entrance hall, ground floor WC, through lounge/dining room, fitted kitchen, three bedrooms, bedroom three currently bei (cont.)",
+        "phone_number": "0151 453 8807",
+        "propertySubType": "Terraced",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "displayStatus": null,
+        "addedOrReduced": "Added on 16/11/2024 by Cameron Mackenzie, Huyton"
     },
     {
         "price": "£135,000",
@@ -266,18 +266,6 @@
     {
         "price": "£125,000",
         "price_qualifier": null,
-        "displayAddress": "Clematis Road, Liverpool, Merseyside, L27",
-        "summary": "Entwistle Green are pleased to present to the market this three bedroom mid terraced house situated in L27. No chain involved. This would be an ideal first purchase or family home due to the endless potential to renovate and put your own stamp on the property. The property benefits fro...",
-        "phone_number": "0151 453 3741",
-        "propertySubType": "Not Specified",
-        "bedrooms": null,
-        "bathrooms": null,
-        "displayStatus": null,
-        "addedOrReduced": "Added on 19/12/2024 by Entwistle Green, Allerton"
-    },
-    {
-        "price": "£125,000",
-        "price_qualifier": null,
         "displayAddress": "Clematis Road, Netherley, Liverpool, L27",
         "summary": "Venmore Estate Agents are pleased to present to the sales market this three bedroom terrace property in the popular residential area of Netherley, Liverpool. Sold with no onward chain.",
         "phone_number": "0151 453 6513",
@@ -286,6 +274,18 @@
         "bathrooms": "1",
         "displayStatus": null,
         "addedOrReduced": "Added on 07/12/2024 by Venmore, Liverpool"
+    },
+    {
+        "price": "£125,000",
+        "price_qualifier": null,
+        "displayAddress": "Clematis Road, Liverpool, Merseyside, L27",
+        "summary": "Entwistle Green are pleased to present to the market this three bedroom mid terraced house situated in L27. No chain involved. This would be an ideal first purchase or family home due to the endless potential to renovate and put your own stamp on the property. The property benefits fro...",
+        "phone_number": "0151 453 3741",
+        "propertySubType": "Not Specified",
+        "bedrooms": null,
+        "bathrooms": null,
+        "displayStatus": null,
+        "addedOrReduced": "Added on 19/12/2024 by Entwistle Green, Allerton"
     },
     {
         "price": "£110,000",
@@ -372,16 +372,16 @@
         "addedOrReduced": "Marketed by Land & New Homes, Great Sankey"
     },
     {
-        "price": "£399,000",
-        "price_qualifier": "Offers in Region of",
-        "displayAddress": "Heatherlands Avenue, Denholme, BD13",
-        "summary": "A well presented 4 bedroomed detached family home with separate double garage. The property is on a corner plot within a quiet cul-de-sac of just 5 houses, on a small development at the northern edge of Denholme village. Council Tax Band D (2024 - 2025 Payment £2124.59 / £177.00 per month) ABO",
-        "phone_number": "01702 967858",
+        "price": "£600,000",
+        "price_qualifier": "Offers Over",
+        "displayAddress": "Cragg Lane, Thornton, Bradford",
+        "summary": "This stunning five-bedroom detached home in Thornton, offering breathtaking countryside views and spacious, family-friendly rooms. Ideally situated near local schools, shops, a traditional butcher, and a garden centre, it combines the charm of country living with the convenience of nearby ameniti...",
+        "phone_number": "01422 413027",
         "propertySubType": "Detached",
-        "bedrooms": "4",
-        "bathrooms": "2",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 22/08/2024 by Emoov, Chelmsford"
+        "bedrooms": "5",
+        "bathrooms": "3",
+        "displayStatus": null,
+        "addedOrReduced": "Reduced on 13/12/2024 by Reloc8 Properties, West Yorkshire"
     },
     {
         "price": "£1,100,000",
@@ -577,15 +577,15 @@
     },
     {
         "price": "£450,000",
-        "price_qualifier": "Guide Price",
-        "displayAddress": "Spring Row, Denholme, Bradford",
-        "summary": "A characterful Grade ll listed semi-detached family home marketed with no vendor chain, enjoying a semi-rural setting within close proximity to Oxenhope and with views across the surrounding countryside. Retaining many original features including stone mullion windows and exposed beams. With well...",
-        "phone_number": "01422 412600",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "5",
-        "bathrooms": "2",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Reduced on 20/10/2023 by Charnock Bates, Halifax"
+        "price_qualifier": "Offers in Region of",
+        "displayAddress": "Lees Close, Cullingworth, Bradford",
+        "summary": "Located in the charming village of Cullingworth, this modern four-bedroom detached family home offers spacious living, a private garden, and a detached double garage. Perfect for families, the property is close to excellent schools, local amenities, and scenic countryside walks.",
+        "phone_number": "01274 015771",
+        "propertySubType": "Detached",
+        "bedrooms": "4",
+        "bathrooms": "1",
+        "displayStatus": null,
+        "addedOrReduced": "Added on 29/11/2024 by Holroyds, Bingley"
     },
     {
         "price": "£450,000",
@@ -601,15 +601,15 @@
     },
     {
         "price": "£450,000",
-        "price_qualifier": "Offers in Region of",
-        "displayAddress": "Lees Close, Cullingworth, Bradford",
-        "summary": "Located in the charming village of Cullingworth, this modern four-bedroom detached family home offers spacious living, a private garden, and a detached double garage. Perfect for families, the property is close to excellent schools, local amenities, and scenic countryside walks.",
-        "phone_number": "01274 015771",
-        "propertySubType": "Detached",
-        "bedrooms": "4",
-        "bathrooms": "1",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 29/11/2024 by Holroyds, Bingley"
+        "price_qualifier": "Guide Price",
+        "displayAddress": "Spring Row, Denholme, Bradford",
+        "summary": "A characterful Grade ll listed semi-detached family home marketed with no vendor chain, enjoying a semi-rural setting within close proximity to Oxenhope and with views across the surrounding countryside. Retaining many original features including stone mullion windows and exposed beams. With well...",
+        "phone_number": "01422 412600",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "5",
+        "bathrooms": "2",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Reduced on 20/10/2023 by Charnock Bates, Halifax"
     },
     {
         "price": "£435,000",
@@ -626,18 +626,6 @@
     {
         "price": "£400,000",
         "price_qualifier": null,
-        "displayAddress": "Manywells Brow, Cullingworth, Bradford",
-        "summary": "The Marham -The large internal footprint and high quality specification will appeal to a range of buyers. To the ground floor you will find a kitchen/dining area, large rear aspect lounge with doors leading to the private garden and separate laundry room. The property is arranged over three floors.",
-        "phone_number": "01274 015771",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "4",
-        "bathrooms": "3",
-        "displayStatus": "NEW HOME",
-        "addedOrReduced": "Added on 20/06/2024 by Holroyds, Bingley"
-    },
-    {
-        "price": "£400,000",
-        "price_qualifier": null,
         "displayAddress": "Perseverance Road, Queensbury, Bradford, West Yorkshire, BD13",
         "summary": "A magnificent 2 bedroom detached true bungalow. This property is located in the highly sought after residential area of Queensbury, within close proximity of amenities, local parks and excellent schools. Ideally suited for those who require easy access to surrounding towns and cities v...",
         "phone_number": "01422 412950",
@@ -646,6 +634,18 @@
         "bathrooms": "2",
         "displayStatus": null,
         "addedOrReduced": "Reduced on 30/07/2024 by Bridgfords, Halifax"
+    },
+    {
+        "price": "£400,000",
+        "price_qualifier": null,
+        "displayAddress": "Manywells Brow, Cullingworth, Bradford",
+        "summary": "The Marham -The large internal footprint and high quality specification will appeal to a range of buyers. To the ground floor you will find a kitchen/dining area, large rear aspect lounge with doors leading to the private garden and separate laundry room. The property is arranged over three floors.",
+        "phone_number": "01274 015771",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "displayStatus": "NEW HOME",
+        "addedOrReduced": "Added on 20/06/2024 by Holroyds, Bingley"
     },
     {
         "price": "£399,995",
@@ -710,18 +710,6 @@
     {
         "price": "£390,000",
         "price_qualifier": null,
-        "displayAddress": "Lodge Gate Close, Denholme",
-        "summary": "Nestled in the charming area of Denholme is this delightful 4 bedroom detached property which offers a blend of character and modern living.",
-        "phone_number": "01274 003573",
-        "propertySubType": "Detached",
-        "bedrooms": "4",
-        "bathrooms": "2",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 03/12/2024 by Whitney's, Clayton"
-    },
-    {
-        "price": "£390,000",
-        "price_qualifier": null,
         "displayAddress": "Littlemoor Bradford",
         "summary": "** IMPRESSIVE FOUR BEDROOM DETACHED ** SOUGHT-AFTER LOCATION ** TASTEFULLY APPOINTED THROUGHOUT ** Bronte Estates are delighted to offer for sale this substantial four to six bedroom family home, located on the desirable 'Littlemoor' in Queensbury. Presented to a high standard and enjoying a good...",
         "phone_number": "01274 015303",
@@ -744,16 +732,16 @@
         "addedOrReduced": "Reduced on 13/11/2024 by Peter David Properties, Huddersfield"
     },
     {
-        "price": "£385,000",
+        "price": "£390,000",
         "price_qualifier": null,
-        "displayAddress": "School Ridge, Thornton, Bradford",
-        "summary": "** STUNNING DETACHED CHARACTER PROPERTY ** SET ACROSS THREE FLOORS ** CURRENTLY TWO BEDROOMS ** FULLY RENOVATED IN RECENT YEARS ** TASTEFULLY APPOINTED THROUGHOUT WITH QUALITY FIXTURES & FITTINGS ** IDYLLIC LOCATION WITH RURAL VIEWS ** This superb property in a sought-after position on the outski...",
-        "phone_number": "01274 015303",
+        "displayAddress": "Lodge Gate Close, Denholme",
+        "summary": "Nestled in the charming area of Denholme is this delightful 4 bedroom detached property which offers a blend of character and modern living.",
+        "phone_number": "01274 003573",
         "propertySubType": "Detached",
-        "bedrooms": "2",
-        "bathrooms": "1",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 11/09/2024 by Bronte Estate Agents, Queensbury"
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "displayStatus": null,
+        "addedOrReduced": "Added on 03/12/2024 by Whitney's, Clayton"
     },
     {
         "price": "£385,000",
@@ -769,15 +757,15 @@
     },
     {
         "price": "£385,000",
-        "price_qualifier": "Offers in Excess of",
-        "displayAddress": "Castle Stead Crescent, Bradford, BD13",
-        "summary": "Stunning 4-Bedroom Detached Family Home in Highly Sought-After Cullingworth Development Set within an idyllic, modern family-friendly development in the picturesque village of Cullingworth, this exceptional four-bedroom detached property is a rare find. Just a stone’s throw from Yorkshire's most...",
-        "phone_number": "024 7542 6813",
+        "price_qualifier": null,
+        "displayAddress": "School Ridge, Thornton, Bradford",
+        "summary": "** STUNNING DETACHED CHARACTER PROPERTY ** SET ACROSS THREE FLOORS ** CURRENTLY TWO BEDROOMS ** FULLY RENOVATED IN RECENT YEARS ** TASTEFULLY APPOINTED THROUGHOUT WITH QUALITY FIXTURES & FITTINGS ** IDYLLIC LOCATION WITH RURAL VIEWS ** This superb property in a sought-after position on the outski...",
+        "phone_number": "01274 015303",
         "propertySubType": "Detached",
-        "bedrooms": "4",
-        "bathrooms": "2",
-        "displayStatus": null,
-        "addedOrReduced": "Reduced on 03/12/2024 by Purplebricks, covering Bradford"
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 11/09/2024 by Bronte Estate Agents, Queensbury"
     },
     {
         "price": "£385,000",
@@ -792,16 +780,16 @@
         "addedOrReduced": "Added on 16/08/2024 by Linley & Simpson, Bingley"
     },
     {
-        "price": "£380,000",
+        "price": "£385,000",
         "price_qualifier": "Offers in Excess of",
-        "displayAddress": "Old Guy Road, Queensbury, Bradford",
-        "summary": "This substantial stone built farm house property occupies a commanding position, just off Old Guy Road and provides generous sized four bedroomed family accommodation that was formerly two properties. Step inside and you will appreciate there are generous sized rooms throughout, a modern fitted ...",
-        "phone_number": "01422 412483",
-        "propertySubType": "Farm House",
+        "displayAddress": "Castle Stead Crescent, Bradford, BD13",
+        "summary": "Stunning 4-Bedroom Detached Family Home in Highly Sought-After Cullingworth Development Set within an idyllic, modern family-friendly development in the picturesque village of Cullingworth, this exceptional four-bedroom detached property is a rare find. Just a stone’s throw from Yorkshire's most...",
+        "phone_number": "024 7542 6813",
+        "propertySubType": "Detached",
         "bedrooms": "4",
         "bathrooms": "2",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Reduced on 28/08/2024 by WS Residential, Brighouse"
+        "displayStatus": null,
+        "addedOrReduced": "Reduced on 03/12/2024 by Purplebricks, covering Bradford"
     },
     {
         "price": "£380,000",
@@ -814,6 +802,18 @@
         "bathrooms": "2",
         "displayStatus": "SOLD STC",
         "addedOrReduced": "Added on 15/10/2024 by Holroyds, Bingley"
+    },
+    {
+        "price": "£380,000",
+        "price_qualifier": "Offers in Excess of",
+        "displayAddress": "Old Guy Road, Queensbury, Bradford",
+        "summary": "This substantial stone built farm house property occupies a commanding position, just off Old Guy Road and provides generous sized four bedroomed family accommodation that was formerly two properties. Step inside and you will appreciate there are generous sized rooms throughout, a modern fitted ...",
+        "phone_number": "01422 412483",
+        "propertySubType": "Farm House",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Reduced on 28/08/2024 by WS Residential, Brighouse"
     },
     {
         "price": "£375,000",
@@ -937,27 +937,27 @@
     },
     {
         "price": "£350,000",
-        "price_qualifier": "Guide Price",
-        "displayAddress": "Sutton Drive, Cullingworth, BD13",
-        "summary": "A beautiful detached family home boasting an enviable corner garden plot, three good sized double bedrooms and two lovely reception rooms. Making a wonderful purchase for a wide variety of buyers an early viewing is strongly recommended.",
-        "phone_number": "01274 003169",
-        "propertySubType": "Detached",
-        "bedrooms": "3",
-        "bathrooms": "1",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 28/02/2024 by Dacre Son & Hartley, Bingley"
+        "price_qualifier": null,
+        "displayAddress": "Manywells Brow, Cullingworth, Bradford",
+        "summary": "Over 50% Now Reserved!! The Henlow has an open plan ground floor layout. The Kitchen dining area to the front of the property flows seamlessly into a spacious lounge providing plenty of versatility. The property offers four bedrooms over three floors.",
+        "phone_number": "01274 015771",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "displayStatus": "NEW HOME",
+        "addedOrReduced": "Added on 12/08/2024 by Holroyds, Bingley"
     },
     {
         "price": "£350,000",
         "price_qualifier": null,
-        "displayAddress": "Foster Park Road, Denholme, Bradford, West Yorkshire, BD13",
-        "summary": "A simply stunning four bedroom link detached bungalow enjoying unrivalled panoramic views. Having been much improved by the current owners by way of a substantial rear extension providing excellent open plan living. This truly is a must see property.",
-        "phone_number": "01535 288169",
-        "propertySubType": "Bungalow",
+        "displayAddress": "Manywells Brow, Cullingworth, Bradford",
+        "summary": "The Henlow has an open plan ground floor layout. The Kitchen dining area to the front of the property flows seamlessly into a spacious lounge providing plenty of versatility. The property offers four bedrooms over three floors.",
+        "phone_number": "01274 015771",
+        "propertySubType": "Semi-Detached",
         "bedrooms": "4",
-        "bathrooms": "2",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 26/09/2024 by Your Move, Keighley"
+        "bathrooms": "3",
+        "displayStatus": "NEW HOME",
+        "addedOrReduced": "Added on 20/06/2024 by Holroyds, Bingley"
     },
     {
         "price": "£350,000",
@@ -975,42 +975,6 @@
         "price": "£350,000",
         "price_qualifier": null,
         "displayAddress": "Manywells Brow, Cullingworth, Bradford",
-        "summary": "The Henlow has an open plan ground floor layout. The Kitchen dining area to the front of the property flows seamlessly into a spacious lounge providing plenty of versatility. The property offers four bedrooms over three floors.",
-        "phone_number": "01274 015771",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "4",
-        "bathrooms": "3",
-        "displayStatus": "NEW HOME",
-        "addedOrReduced": "Added on 20/06/2024 by Holroyds, Bingley"
-    },
-    {
-        "price": "£350,000",
-        "price_qualifier": null,
-        "displayAddress": "The Brow, Cullingworth, Bradford",
-        "summary": "An immaculately presented, detached, four bedroom, property, located on a popular development in Cullingworth. The property benefits from off street parking via a driveway and garage, private rear garden, large kitchen diner with separate utility room and four bedrooms, one with an en-suite.",
-        "phone_number": "01274 015771",
-        "propertySubType": "Detached",
-        "bedrooms": "4",
-        "bathrooms": "2",
-        "displayStatus": null,
-        "addedOrReduced": "Reduced on 29/05/2024 by Holroyds, Bingley"
-    },
-    {
-        "price": "£350,000",
-        "price_qualifier": null,
-        "displayAddress": "Manywells Brow, Cullingworth, Bradford",
-        "summary": "Over 50% Now Reserved!! The Henlow has an open plan ground floor layout. The Kitchen dining area to the front of the property flows seamlessly into a spacious lounge providing plenty of versatility. The property offers four bedrooms over three floors.",
-        "phone_number": "01274 015771",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "4",
-        "bathrooms": "3",
-        "displayStatus": "NEW HOME",
-        "addedOrReduced": "Added on 12/08/2024 by Holroyds, Bingley"
-    },
-    {
-        "price": "£350,000",
-        "price_qualifier": null,
-        "displayAddress": "Manywells Brow, Cullingworth, Bradford",
         "summary": "**Only Two Of This House Type Left** - The Henlow has an open plan ground floor layout. The Kitchen dining area to the front of the property flows seamlessly into a spacious lounge providing plenty of versatility. The property offers four bedrooms over three floors.",
         "phone_number": "01274 015771",
         "propertySubType": "Semi-Detached",
@@ -1018,6 +982,30 @@
         "bathrooms": "3",
         "displayStatus": "NEW HOME",
         "addedOrReduced": "Added on 02/09/2024 by Holroyds, Bingley"
+    },
+    {
+        "price": "£350,000",
+        "price_qualifier": null,
+        "displayAddress": "Foster Park Road, Denholme, Bradford, West Yorkshire, BD13",
+        "summary": "A simply stunning four bedroom link detached bungalow enjoying unrivalled panoramic views. Having been much improved by the current owners by way of a substantial rear extension providing excellent open plan living. This truly is a must see property.",
+        "phone_number": "01535 288169",
+        "propertySubType": "Bungalow",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 26/09/2024 by Your Move, Keighley"
+    },
+    {
+        "price": "£350,000",
+        "price_qualifier": "Guide Price",
+        "displayAddress": "Sutton Drive, Cullingworth, BD13",
+        "summary": "A beautiful detached family home boasting an enviable corner garden plot, three good sized double bedrooms and two lovely reception rooms. Making a wonderful purchase for a wide variety of buyers an early viewing is strongly recommended.",
+        "phone_number": "01274 003169",
+        "propertySubType": "Detached",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 28/02/2024 by Dacre Son & Hartley, Bingley"
     },
     {
         "price": "£350,000",
@@ -1030,6 +1018,18 @@
         "bathrooms": null,
         "displayStatus": null,
         "addedOrReduced": "Marketed by Dacre Son & Hartley, Bingley"
+    },
+    {
+        "price": "£350,000",
+        "price_qualifier": null,
+        "displayAddress": "The Brow, Cullingworth, Bradford",
+        "summary": "An immaculately presented, detached, four bedroom, property, located on a popular development in Cullingworth. The property benefits from off street parking via a driveway and garage, private rear garden, large kitchen diner with separate utility room and four bedrooms, one with an en-suite.",
+        "phone_number": "01274 015771",
+        "propertySubType": "Detached",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "displayStatus": null,
+        "addedOrReduced": "Reduced on 29/05/2024 by Holroyds, Bingley"
     },
     {
         "price": "£349,995",
@@ -1094,18 +1094,6 @@
     {
         "price": "£335,000",
         "price_qualifier": null,
-        "displayAddress": "Old Mill Dam Lane, Queensbury, Bradford",
-        "summary": "* MODERN DETACHED * FOUR BEDROOMS * TWO BATH/SHOWER ROOMS * * MODERN LIVING/DINING KITCHEN * GARDENS * DRIVE * GARAGE * Located on this popular Harron Homes Development, is this four bedroom modern detached home. The property is within easy access of amenities, shops, primary & s...",
-        "phone_number": "01274 003968",
-        "propertySubType": "Detached",
-        "bedrooms": "4",
-        "bathrooms": "2",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 15/11/2024 by Sugdens, Queensbury"
-    },
-    {
-        "price": "£335,000",
-        "price_qualifier": null,
         "displayAddress": "Lodge Street, Cullingworth, Bradford, BD13",
         "summary": "** WELL PRESENTED MODERN DETACHED HOUSE, THREE DOUBLE BEDROOMS + STUDY/SMALL 4th BEDROOM, ACCOMMODATION OVER THREE FLOORS, PARKING FOR TWO CARS, MANAGEABLE GARDENS, POPULAR VILLAGE OF CULLINGWORTH NEAR TO LOCAL AMENITIES, INTERNAL VIEWING ADVISED, EPC RATING C **",
         "phone_number": "01535 286799",
@@ -1114,6 +1102,18 @@
         "bathrooms": "2",
         "displayStatus": null,
         "addedOrReduced": "Added on 07/10/2024 by Day & Co Estate Agents Limited, Keighley"
+    },
+    {
+        "price": "£335,000",
+        "price_qualifier": null,
+        "displayAddress": "Old Mill Dam Lane, Queensbury, Bradford",
+        "summary": "* MODERN DETACHED * FOUR BEDROOMS * TWO BATH/SHOWER ROOMS * * MODERN LIVING/DINING KITCHEN * GARDENS * DRIVE * GARAGE * Located on this popular Harron Homes Development, is this four bedroom modern detached home. The property is within easy access of amenities, shops, primary & s...",
+        "phone_number": "01274 003968",
+        "propertySubType": "Detached",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "displayStatus": null,
+        "addedOrReduced": "Added on 15/11/2024 by Sugdens, Queensbury"
     },
     {
         "price": "£335,000",
@@ -1153,15 +1153,39 @@
     },
     {
         "price": "£325,000",
-        "price_qualifier": "Offers Over",
-        "displayAddress": "The Brow, Cullingworth, Bradford",
-        "summary": "A well-presented three-bedroom detached home situated in the sought-after residential area of Cullingworth. Benefiting from upgraded appliances and tiled flooring. Additional rear garden and private drive and detached single garage.",
-        "phone_number": "01422 413027",
+        "price_qualifier": null,
+        "displayAddress": "Manywells Brow, Cullingworth, Bradford",
+        "summary": "The Cosforth will appeal to a range of buyers. The modern layout, high specification and quieter rear aspect means flexible family living. The property offers FOUR bedrooms and a study arranged over three floors with an ensuite to the master and second bedroom.",
+        "phone_number": "01274 015771",
+        "propertySubType": "Town House",
+        "bedrooms": "5",
+        "bathrooms": "2",
+        "displayStatus": "NEW HOME",
+        "addedOrReduced": "Added on 25/07/2024 by Holroyds, Bingley"
+    },
+    {
+        "price": "£325,000",
+        "price_qualifier": null,
+        "displayAddress": "Lodge Gate, Denholme, Bradford, West Yorkshire, BD13",
+        "summary": "A unique and exciting opportunity to acquire this detached former Wesleyan Sunday School dating back to 1838. Offering huge potential the property has been partly renovated to a high standard with scope for further development. An internal inspection is considered essential to fully appreciate th...",
+        "phone_number": "01535 288169",
         "propertySubType": "Detached",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "displayStatus": null,
+        "addedOrReduced": "Reduced on 02/10/2024 by Your Move, Keighley"
+    },
+    {
+        "price": "£325,000",
+        "price_qualifier": "Offers Over",
+        "displayAddress": "Littlemoor, Queensbury, BD13 1DD",
+        "summary": "** STUNNING THREE BEDROOM CHARACTER COTTAGE ** RURAL BACKWATER LOCATION ** DELIGHTFUL OPEN VIEWS ** LARGE GARDEN * DRIVEWAY ** Welcome to this charming cottage located in the picturesque Littlemoor area of Queensbury. This delightful property boasts two reception rooms, two double bedrooms & one ...",
+        "phone_number": "01274 015303",
+        "propertySubType": "Cottage",
         "bedrooms": "3",
         "bathrooms": "2",
         "displayStatus": null,
-        "addedOrReduced": "Added on 10/10/2024 by Reloc8 Properties, West Yorkshire"
+        "addedOrReduced": "Added on 22/11/2024 by Bronte Estate Agents, Queensbury"
     },
     {
         "price": "£325,000",
@@ -1185,7 +1209,7 @@
         "bedrooms": "5",
         "bathrooms": "2",
         "displayStatus": "NEW HOME",
-        "addedOrReduced": "Added on 25/07/2024 by Holroyds, Bingley"
+        "addedOrReduced": "Added on 20/06/2024 by Holroyds, Bingley"
     },
     {
         "price": "£325,000",
@@ -1201,6 +1225,30 @@
     },
     {
         "price": "£325,000",
+        "price_qualifier": "Offers Over",
+        "displayAddress": "The Brow, Cullingworth, Bradford",
+        "summary": "A well-presented three-bedroom detached home situated in the sought-after residential area of Cullingworth. Benefiting from upgraded appliances and tiled flooring. Additional rear garden and private drive and detached single garage.",
+        "phone_number": "01422 413027",
+        "propertySubType": "Detached",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "displayStatus": null,
+        "addedOrReduced": "Added on 10/10/2024 by Reloc8 Properties, West Yorkshire"
+    },
+    {
+        "price": "£325,000",
+        "price_qualifier": "Offers Over",
+        "displayAddress": "Halifax Road, Cullingworth, BD13 5DE",
+        "summary": "Nestled in the very sought-after village of Cullingworth, is this delightful, deceptively spacious 'extended' cottage, which boasts a warm and inviting atmosphere that is sure to capture your heart. With a large reception room, family dining kitchen, ground floor W/C, utility room, house bathroom...",
+        "phone_number": "01535 286815",
+        "propertySubType": "Terraced",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "displayStatus": null,
+        "addedOrReduced": "Added on 08/11/2024 by Davies Properties, Keighley"
+    },
+    {
+        "price": "£325,000",
         "price_qualifier": "Guide Price",
         "displayAddress": "Cullingworth Road, Cullingworth, Bradford, West Yorkshire, BD13",
         "summary": "A beautifully presented three bedroom detached bungalow offering attractive living accommodation enjoying a fine aspect delightfully situated within a prestigious residential location. NO CHAIN",
@@ -1210,18 +1258,6 @@
         "bathrooms": "2",
         "displayStatus": null,
         "addedOrReduced": "Added on 26/11/2024 by Dacre Son & Hartley, Bingley"
-    },
-    {
-        "price": "£325,000",
-        "price_qualifier": null,
-        "displayAddress": "Manywells Brow, Cullingworth, Bradford",
-        "summary": "The Cosforth will appeal to a range of buyers. The modern layout, high specification and quieter rear aspect means flexible family living. The property offers FOUR bedrooms and a study arranged over three floors with an ensuite to the master and second bedroom.",
-        "phone_number": "01274 015771",
-        "propertySubType": "Town House",
-        "bedrooms": "5",
-        "bathrooms": "2",
-        "displayStatus": "NEW HOME",
-        "addedOrReduced": "Added on 19/08/2024 by Holroyds, Bingley"
     },
     {
         "price": "£325,000",
@@ -1245,43 +1281,7 @@
         "bedrooms": "5",
         "bathrooms": "2",
         "displayStatus": "NEW HOME",
-        "addedOrReduced": "Added on 20/06/2024 by Holroyds, Bingley"
-    },
-    {
-        "price": "£325,000",
-        "price_qualifier": "Offers Over",
-        "displayAddress": "Littlemoor, Queensbury, BD13 1DD",
-        "summary": "** STUNNING THREE BEDROOM CHARACTER COTTAGE ** RURAL BACKWATER LOCATION ** DELIGHTFUL OPEN VIEWS ** LARGE GARDEN * DRIVEWAY ** Welcome to this charming cottage located in the picturesque Littlemoor area of Queensbury. This delightful property boasts two reception rooms, two double bedrooms & one ...",
-        "phone_number": "01274 015303",
-        "propertySubType": "Cottage",
-        "bedrooms": "3",
-        "bathrooms": "2",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 22/11/2024 by Bronte Estate Agents, Queensbury"
-    },
-    {
-        "price": "£325,000",
-        "price_qualifier": null,
-        "displayAddress": "Lodge Gate, Denholme, Bradford, West Yorkshire, BD13",
-        "summary": "A unique and exciting opportunity to acquire this detached former Wesleyan Sunday School dating back to 1838. Offering huge potential the property has been partly renovated to a high standard with scope for further development. An internal inspection is considered essential to fully appreciate th...",
-        "phone_number": "01535 288169",
-        "propertySubType": "Detached",
-        "bedrooms": "4",
-        "bathrooms": "2",
-        "displayStatus": null,
-        "addedOrReduced": "Reduced on 02/10/2024 by Your Move, Keighley"
-    },
-    {
-        "price": "£325,000",
-        "price_qualifier": "Offers Over",
-        "displayAddress": "Halifax Road, Cullingworth, BD13 5DE",
-        "summary": "Nestled in the very sought-after village of Cullingworth, is this delightful, deceptively spacious 'extended' cottage, which boasts a warm and inviting atmosphere that is sure to capture your heart. With a large reception room, family dining kitchen, ground floor W/C, utility room, house bathroom...",
-        "phone_number": "01535 286815",
-        "propertySubType": "Terraced",
-        "bedrooms": "3",
-        "bathrooms": "1",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 08/11/2024 by Davies Properties, Keighley"
+        "addedOrReduced": "Added on 19/08/2024 by Holroyds, Bingley"
     },
     {
         "price": "£324,500",
@@ -1310,18 +1310,6 @@
     {
         "price": "£320,000",
         "price_qualifier": null,
-        "displayAddress": "Highgate Grove, Queensbury, BD13",
-        "summary": "Charming 4-bed bungalow in a quiet cul-de-sac with a large south-facing garden. Well-presented living space, breakfast kitchen, two bathrooms, driveway, garage. Virtual tour available. Ideal for relaxation and entertaining.",
-        "phone_number": "01274 003311",
-        "propertySubType": "Detached Bungalow",
-        "bedrooms": "4",
-        "bathrooms": "2",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 04/07/2024 by Righthaus Properties, Bradford"
-    },
-    {
-        "price": "£320,000",
-        "price_qualifier": null,
         "displayAddress": "Harrowins Farm Drive, Queensbury, Bradford",
         "summary": "IMMACULATE FOUR BEDROOM DETACHED FAMILY HOME WITH EN-SUITE TO MASTER & SEPARATE FAMILY BATHROOM, AN OPEN PLAN DINING KITCHEN WITH A MODERN FINISH THROUGHOUT!",
         "phone_number": "01274 015303",
@@ -1330,6 +1318,18 @@
         "bathrooms": "3",
         "displayStatus": null,
         "addedOrReduced": "Added on 19/11/2024 by Bronte Estate Agents, Queensbury"
+    },
+    {
+        "price": "£320,000",
+        "price_qualifier": null,
+        "displayAddress": "Highgate Grove, Queensbury, BD13",
+        "summary": "Charming 4-bed bungalow in a quiet cul-de-sac with a large south-facing garden. Well-presented living space, breakfast kitchen, two bathrooms, driveway, garage. Virtual tour available. Ideal for relaxation and entertaining.",
+        "phone_number": "01274 003311",
+        "propertySubType": "Detached Bungalow",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 04/07/2024 by Righthaus Properties, Bradford"
     },
     {
         "price": "£319,950",
@@ -1342,30 +1342,6 @@
         "bathrooms": "1",
         "displayStatus": "SOLD STC",
         "addedOrReduced": "Reduced on 18/07/2024 by Whitney's, Clayton"
-    },
-    {
-        "price": "£315,000",
-        "price_qualifier": "Offers Over",
-        "displayAddress": "Pinebury Drive, Queensbury, Bradford",
-        "summary": "** CHAIN FREE ** BOOK A VIEWING TODAY** On this well presented FOUR BEDROOM DETACHED house offering IDEAL FAMILY SIZE ACCOMMODATION. The property boasts solar panels, ensuite to master bedroom, driveway PARKING, garage, well maintained GARDENS, utility room, ground floor WC. Having UPVC double gl...",
-        "phone_number": "01274 015303",
-        "propertySubType": "Detached",
-        "bedrooms": "4",
-        "bathrooms": "2",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 07/09/2024 by Bronte Estate Agents, Queensbury"
-    },
-    {
-        "price": "£315,000",
-        "price_qualifier": null,
-        "displayAddress": "Tree Top View, Queensbury, Bradford",
-        "summary": "*NO CHAIN* DETACHED * FOUR BEDROOMS * SMALL CUL-DE-SAC * WELL PRESENTED * * CLOSE TO AMENITIES * GARDENS * DRIVEWAY * Immaculately presented throughout, is this four bedroom detached property. Occupying this small cul-de-sac location, the property would appeal to a number of buy...",
-        "phone_number": "01274 003968",
-        "propertySubType": "Detached",
-        "bedrooms": "4",
-        "bathrooms": "2",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Reduced on 22/07/2024 by Sugdens, Queensbury"
     },
     {
         "price": "£315,000",
@@ -1392,16 +1368,40 @@
         "addedOrReduced": "Reduced on 08/05/2024 by Sugdens, Queensbury"
     },
     {
+        "price": "£315,000",
+        "price_qualifier": null,
+        "displayAddress": "Tree Top View, Queensbury, Bradford",
+        "summary": "*NO CHAIN* DETACHED * FOUR BEDROOMS * SMALL CUL-DE-SAC * WELL PRESENTED * * CLOSE TO AMENITIES * GARDENS * DRIVEWAY * Immaculately presented throughout, is this four bedroom detached property. Occupying this small cul-de-sac location, the property would appeal to a number of buy...",
+        "phone_number": "01274 003968",
+        "propertySubType": "Detached",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Reduced on 22/07/2024 by Sugdens, Queensbury"
+    },
+    {
+        "price": "£315,000",
+        "price_qualifier": "Offers Over",
+        "displayAddress": "Pinebury Drive, Queensbury, Bradford",
+        "summary": "** CHAIN FREE ** BOOK A VIEWING TODAY** On this well presented FOUR BEDROOM DETACHED house offering IDEAL FAMILY SIZE ACCOMMODATION. The property boasts solar panels, ensuite to master bedroom, driveway PARKING, garage, well maintained GARDENS, utility room, ground floor WC. Having UPVC double gl...",
+        "phone_number": "01274 015303",
+        "propertySubType": "Detached",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "displayStatus": null,
+        "addedOrReduced": "Added on 07/09/2024 by Bronte Estate Agents, Queensbury"
+    },
+    {
         "price": "£305,000",
         "price_qualifier": "Offers in Region of",
-        "displayAddress": "North Cliffe Drive, Thornton, Bradford",
-        "summary": "**FIVE BEDROOM DETACHED CHALET STYLE BUNGALOW** **POPULAR LOCATION** **LARGE REAR GARDEN** **GARAGE AND DRIVEWAY** Whitneys are delighted to present this superb chalet style bungalow boasting five bedrooms, large garden space, garage and driveway for 2+ vehicles. Located close to Thornton Village...",
-        "phone_number": "01274 003573",
-        "propertySubType": "Detached Bungalow",
-        "bedrooms": "5",
-        "bathrooms": "1",
+        "displayAddress": "Long Lane, Queensbury, Bradford",
+        "summary": "** FOUR BEDROOM FAMILY HOME ** MANY RECENT IMPROVEMENTS ** Brought to the market is this DECEPTIVELY SPACIOUS, FOUR BEDROOM property situated in a desirable position on the outskirts of Queensbury. The property benefits from OFF ROAD PARKING, AN INTEGRAL GARAGE, NEW WINDOWS (front and side), A re...",
+        "phone_number": "01274 015303",
+        "propertySubType": "Link Detached House",
+        "bedrooms": "4",
+        "bathrooms": "2",
         "displayStatus": null,
-        "addedOrReduced": "Added on 08/10/2024 by Whitney's, Clayton"
+        "addedOrReduced": "Reduced on 21/05/2024 by Bronte Estate Agents, Queensbury"
     },
     {
         "price": "£305,000",
@@ -1418,26 +1418,14 @@
     {
         "price": "£305,000",
         "price_qualifier": "Offers in Region of",
-        "displayAddress": "Long Lane, Queensbury, Bradford",
-        "summary": "** FOUR BEDROOM FAMILY HOME ** MANY RECENT IMPROVEMENTS ** Brought to the market is this DECEPTIVELY SPACIOUS, FOUR BEDROOM property situated in a desirable position on the outskirts of Queensbury. The property benefits from OFF ROAD PARKING, AN INTEGRAL GARAGE, NEW WINDOWS (front and side), A re...",
-        "phone_number": "01274 015303",
-        "propertySubType": "Link Detached House",
-        "bedrooms": "4",
-        "bathrooms": "2",
+        "displayAddress": "North Cliffe Drive, Thornton, Bradford",
+        "summary": "**FIVE BEDROOM DETACHED CHALET STYLE BUNGALOW** **POPULAR LOCATION** **LARGE REAR GARDEN** **GARAGE AND DRIVEWAY** Whitneys are delighted to present this superb chalet style bungalow boasting five bedrooms, large garden space, garage and driveway for 2+ vehicles. Located close to Thornton Village...",
+        "phone_number": "01274 003573",
+        "propertySubType": "Detached Bungalow",
+        "bedrooms": "5",
+        "bathrooms": "1",
         "displayStatus": null,
-        "addedOrReduced": "Reduced on 21/05/2024 by Bronte Estate Agents, Queensbury"
-    },
-    {
-        "price": "£300,000",
-        "price_qualifier": "Guide Price",
-        "displayAddress": "Heron Close, Queensbury, Bradford",
-        "summary": "** GUIDE PRICE £300,000 - £315,000 ** SUBSTANTIAL FAMILY HOME SITUATED ON A QUIET CUL-DE-SAC WITH GENEROUS ROOMS SIZES, FOUR BEDROOMS, TWO BATHROOMS AND SOUTH-WEST FACING GARDEN TO REAR!",
-        "phone_number": "01274 015303",
-        "propertySubType": "Detached",
-        "bedrooms": "4",
-        "bathrooms": "2",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Reduced on 14/08/2024 by Bronte Estate Agents, Queensbury"
+        "addedOrReduced": "Added on 08/10/2024 by Whitney's, Clayton"
     },
     {
         "price": "£300,000",
@@ -1453,6 +1441,18 @@
     },
     {
         "price": "£300,000",
+        "price_qualifier": "Offers Over",
+        "displayAddress": "Pennine Close, Queensbury, Bradford",
+        "summary": "A three bedroom detached property in Queensbury which offers great family accommodation. Benefiting from a modern kitchen and bathroom. There is a conservatory and detached garage with a driveway, parking for multiple vehicles! Call us now to book your viewing!",
+        "phone_number": "01422 413767",
+        "propertySubType": "Detached",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "displayStatus": null,
+        "addedOrReduced": "Added on 14/12/2024 by William H. Brown, Halifax"
+    },
+    {
+        "price": "£300,000",
         "price_qualifier": null,
         "displayAddress": "Castle Stead Drive, Cullingworth, Bradford",
         "summary": "An IMMACULATLEY PRESENTED, THREE BEDROOM, semi-detached property with OFF STREET PARKING and a GARAGE. The property is set over three floors and is equipped with a dedicated STUDY, large KITCHEN DINER and MASTER WITH EN-SUITE.",
@@ -1465,6 +1465,18 @@
     },
     {
         "price": "£300,000",
+        "price_qualifier": "Guide Price",
+        "displayAddress": "Heron Close, Queensbury, Bradford",
+        "summary": "** GUIDE PRICE £300,000 - £315,000 ** SUBSTANTIAL FAMILY HOME SITUATED ON A QUIET CUL-DE-SAC WITH GENEROUS ROOMS SIZES, FOUR BEDROOMS, TWO BATHROOMS AND SOUTH-WEST FACING GARDEN TO REAR!",
+        "phone_number": "01274 015303",
+        "propertySubType": "Detached",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Reduced on 14/08/2024 by Bronte Estate Agents, Queensbury"
+    },
+    {
+        "price": "£300,000",
         "price_qualifier": "Offers in Region of",
         "displayAddress": "Ambler Thorn, Queensbury, Bradford",
         "summary": "This spacious four-bedroom detached property is ideally located in the heart of Queensbury, just a few minutes' walk from local schools, shops, pubs, and other amenities. With large windows throughout, this home enjoys an abundance of natural light. The south-facing garden is a sun-soaked haven, ...",
@@ -1474,18 +1486,6 @@
         "bathrooms": "2",
         "displayStatus": null,
         "addedOrReduced": "Reduced on 17/10/2024 by Reloc8 Properties, West Yorkshire"
-    },
-    {
-        "price": "£300,000",
-        "price_qualifier": "Offers Over",
-        "displayAddress": "Pennine Close, Queensbury, Bradford",
-        "summary": "A three bedroom detached property in Queensbury which offers great family accommodation. Benefiting from a modern kitchen and bathroom. There is a conservatory and detached garage with a driveway, parking for multiple vehicles! Call us now to book your viewing!",
-        "phone_number": "01422 413767",
-        "propertySubType": "Detached",
-        "bedrooms": "3",
-        "bathrooms": "1",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 14/12/2024 by William H. Brown, Halifax"
     },
     {
         "price": "£299,995",
@@ -1525,6 +1525,30 @@
     },
     {
         "price": "£295,000",
+        "price_qualifier": null,
+        "displayAddress": "Old School Catherine Slack, Queensbury, Bradford, West Yorkshire, BD13",
+        "summary": "Feast your eyes on this delightful period residence. This unique property forms part of the old Catherine Slack Junior School Conversion. Steeped in history from as far back as 1878. Having undergone a full refurbishment over recent years, could this Victorian property be your next home?...",
+        "phone_number": "03304 700193",
+        "propertySubType": "Character Property",
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 19/09/2024 by EweMove, Covering Yorkshire"
+    },
+    {
+        "price": "£295,000",
+        "price_qualifier": null,
+        "displayAddress": "Ogden Crescent, Denholme, Bradford, West Yorkshire, BD13",
+        "summary": "This exquisite four-bedroom, semi-detached home in Denholm boasts the largest plot in the entire development, offering unparalleled views to the rear.",
+        "phone_number": "01535 288169",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "displayStatus": null,
+        "addedOrReduced": "Added on 09/11/2024 by Your Move, Keighley"
+    },
+    {
+        "price": "£295,000",
         "price_qualifier": "Guide Price",
         "displayAddress": "High Wicken Close, Thornton, Bradford, BD13",
         "summary": "We are proud to offer this Four Bedroom Detached House – all interest and OFFERS are INVITED.*Guide Price £295,000 - £310,000*",
@@ -1550,30 +1574,6 @@
     {
         "price": "£295,000",
         "price_qualifier": null,
-        "displayAddress": "Harrowins Farm Drive, Queensbury, Bradford, BD",
-        "summary": "Nestled in a tranquil cul de sac off Harrowins Farm Drive, this delightful four-bedroom property offers a perfect blend of comfort and modern living. Spanning three thoughtfully designed floors, the property provides ample space for a growing family. As you enter, you are greeted by a warm and in...",
-        "phone_number": "01274 015303",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "4",
-        "bathrooms": "3",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 06/12/2024 by Bronte Estate Agents, Queensbury"
-    },
-    {
-        "price": "£295,000",
-        "price_qualifier": null,
-        "displayAddress": "Ogden Crescent, Denholme, Bradford, West Yorkshire, BD13",
-        "summary": "This exquisite four-bedroom, semi-detached home in Denholm boasts the largest plot in the entire development, offering unparalleled views to the rear.",
-        "phone_number": "01535 288169",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "4",
-        "bathrooms": "2",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 09/11/2024 by Your Move, Keighley"
-    },
-    {
-        "price": "£295,000",
-        "price_qualifier": null,
         "displayAddress": "Thorn Drive, Queensbury, Bradford",
         "summary": "** SPACIOUS THREE/FOUR BEDROOM DETACHED BUNGALOW ** HIGHLY SOUGHT-AFTER POSITION ** LARGE REAR GARDEN ** This detached bungalow on the desirable Thorn Drive, in the Ambler Thorn area of Queensbury is sure to attract a lot of interest. Although some updating is required, this good-sized property c...",
         "phone_number": "01274 015303",
@@ -1586,14 +1586,14 @@
     {
         "price": "£295,000",
         "price_qualifier": null,
-        "displayAddress": "Old School Catherine Slack, Queensbury, Bradford, West Yorkshire, BD13",
-        "summary": "Feast your eyes on this delightful period residence. This unique property forms part of the old Catherine Slack Junior School Conversion. Steeped in history from as far back as 1878. Having undergone a full refurbishment over recent years, could this Victorian property be your next home?...",
-        "phone_number": "03304 700193",
-        "propertySubType": "Character Property",
-        "bedrooms": "3",
+        "displayAddress": "Harrowins Farm Drive, Queensbury, Bradford, BD",
+        "summary": "Nestled in a tranquil cul de sac off Harrowins Farm Drive, this delightful four-bedroom property offers a perfect blend of comfort and modern living. Spanning three thoughtfully designed floors, the property provides ample space for a growing family. As you enter, you are greeted by a warm and in...",
+        "phone_number": "01274 015303",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "4",
         "bathrooms": "3",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 19/09/2024 by EweMove, Covering Yorkshire"
+        "displayStatus": null,
+        "addedOrReduced": "Added on 06/12/2024 by Bronte Estate Agents, Queensbury"
     },
     {
         "price": "£290,000",
@@ -1622,18 +1622,6 @@
     {
         "price": "£290,000",
         "price_qualifier": null,
-        "displayAddress": "Russell Road, Queensbury, Bradford",
-        "summary": "* EXTENDED SEMI * FIVE BEDROOMS * TWO RECEPTION ROOMS * TWO BATH/SHOWER ROOMS * * CLOSE TO AMENITIES/SCHOOLS * GOOD SIZED GARDEN * DRIVEWAY * This superb five bedroom extended semi detached house offers spacious family sized accommodation. Well presented throughout and benefitting...",
-        "phone_number": "01274 003968",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "5",
-        "bathrooms": "2",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Reduced on 06/09/2024 by Sugdens, Queensbury"
-    },
-    {
-        "price": "£290,000",
-        "price_qualifier": null,
         "displayAddress": "Harrowins Farm Drive, Queensbury, Bradford",
         "summary": "** IMPRESSIVE THREE BEDROOM DETACHED ** LARGE CORNER PLOT ** SUPERB REAR GARDEN ** OFF-ROAD PARKING ** IMMACULATELY PRESENTED ** Bronte Estates are delighted to offer for sale this well appointed detached property in a sought after location in Queensbury. Enjoying gardens to all sides, and a fant...",
         "phone_number": "01274 015303",
@@ -1642,6 +1630,18 @@
         "bathrooms": "3",
         "displayStatus": "SOLD STC",
         "addedOrReduced": "Added on 19/07/2024 by Bronte Estate Agents, Queensbury"
+    },
+    {
+        "price": "£290,000",
+        "price_qualifier": null,
+        "displayAddress": "Russell Road, Queensbury, Bradford",
+        "summary": "* EXTENDED SEMI * FIVE BEDROOMS * TWO RECEPTION ROOMS * TWO BATH/SHOWER ROOMS * * CLOSE TO AMENITIES/SCHOOLS * GOOD SIZED GARDEN * DRIVEWAY * This superb five bedroom extended semi detached house offers spacious family sized accommodation. Well presented throughout and benefitting...",
+        "phone_number": "01274 003968",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "5",
+        "bathrooms": "2",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Reduced on 06/09/2024 by Sugdens, Queensbury"
     },
     {
         "price": "£289,995",
@@ -1669,18 +1669,6 @@
     },
     {
         "price": "£285,000",
-        "price_qualifier": null,
-        "displayAddress": "Shibden Heights View, Queensbury, Bradford",
-        "summary": "** EXECUTIVE FOUR BEDROOM TOWNHOUSE ** SET OVER THREE FLOORS ** THREE BATHROOMS ** INTEGRAL GARAGE ** This fantastic modern townhouse in Queensbury was built in 2018 and is located on a small development off Long Lane. Offering deceptively spacious accommodation and is finished to a high standard...",
-        "phone_number": "01274 015303",
-        "propertySubType": "Town House",
-        "bedrooms": "4",
-        "bathrooms": "3",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 23/07/2024 by Bronte Estate Agents, Queensbury"
-    },
-    {
-        "price": "£285,000",
         "price_qualifier": "Offers in Excess of",
         "displayAddress": "Flowerpot Lane, Queensbury, Bradford",
         "summary": "This spacious three-bedroom detached dormer bungalow offers ample parking, well-maintained front and rear gardens, and a versatile layout. With its convenient features and prime location, it provides an excellent opportunity for comfortable family living.",
@@ -1692,16 +1680,16 @@
         "addedOrReduced": "Reduced on 21/10/2024 by Reloc8 Properties, West Yorkshire"
     },
     {
-        "price": "£280,000",
+        "price": "£285,000",
         "price_qualifier": null,
-        "displayAddress": "Jackson Hill, Queensbury, Bradford, BD13",
-        "summary": "** A RARE OPPORTUNITY WHICH SHOULD NOT BE MISSED ** IDEAL SMALL HOLDING FOR THOSE LOOKING FOR THAT SOMETHING DIFFERENT ** Former 2 cottages which have been one for many years and provide a great FAMILY HOME with single story living. Currently full of character and charm YET is in need of refuribm...",
-        "phone_number": "01274 003296",
-        "propertySubType": "Bungalow",
+        "displayAddress": "Shibden Heights View, Queensbury, Bradford",
+        "summary": "** EXECUTIVE FOUR BEDROOM TOWNHOUSE ** SET OVER THREE FLOORS ** THREE BATHROOMS ** INTEGRAL GARAGE ** This fantastic modern townhouse in Queensbury was built in 2018 and is located on a small development off Long Lane. Offering deceptively spacious accommodation and is finished to a high standard...",
+        "phone_number": "01274 015303",
+        "propertySubType": "Town House",
         "bedrooms": "4",
-        "bathrooms": "1",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 06/12/2024 by Robert Watts, Wibsey"
+        "bathrooms": "3",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 23/07/2024 by Bronte Estate Agents, Queensbury"
     },
     {
         "price": "£280,000",
@@ -1728,6 +1716,18 @@
         "addedOrReduced": "Added on 18/10/2024 by Bronte Estate Agents, Queensbury"
     },
     {
+        "price": "£280,000",
+        "price_qualifier": null,
+        "displayAddress": "Jackson Hill, Queensbury, Bradford, BD13",
+        "summary": "** A RARE OPPORTUNITY WHICH SHOULD NOT BE MISSED ** IDEAL SMALL HOLDING FOR THOSE LOOKING FOR THAT SOMETHING DIFFERENT ** Former 2 cottages which have been one for many years and provide a great FAMILY HOME with single story living. Currently full of character and charm YET is in need of refuribm...",
+        "phone_number": "01274 003296",
+        "propertySubType": "Bungalow",
+        "bedrooms": "4",
+        "bathrooms": "1",
+        "displayStatus": null,
+        "addedOrReduced": "Added on 06/12/2024 by Robert Watts, Wibsey"
+    },
+    {
         "price": "£279,995",
         "price_qualifier": null,
         "displayAddress": "Hewenden Drive, Cullingworth, Bradford, BD13",
@@ -1742,18 +1742,6 @@
     {
         "price": "£279,950",
         "price_qualifier": null,
-        "displayAddress": "Beech Avenue, Denholme, Bradford",
-        "summary": "Offered with no onward chain is a very well appointed and extended four bedroom semi detached home in a most sought after residential location, with excellent views to the rear. Situated in a popular cul de sac of similar high caliber homes, a viewing to appreciate the size and quality o...",
-        "phone_number": "01274 003939",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "4",
-        "bathrooms": "1",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 13/08/2024 by Hunters, Bingley"
-    },
-    {
-        "price": "£279,950",
-        "price_qualifier": null,
         "displayAddress": "Lytham Drive, Queensbury",
         "summary": "* * EXTENDED SEMI DETACHED * * THREE BEDROOMS * * TWO RECEPTION ROOMS * * * * CUL-DE-SAC * * FAR REACHING VIEWS * * GARDENS, PARKING & GARAGE * * Superb corner plot with far reaching views!! This extended three bedroom semi detached property would make an ideal purchase for a numbe...",
         "phone_number": "01274 003968",
@@ -1762,6 +1750,18 @@
         "bathrooms": "2",
         "displayStatus": "SOLD STC",
         "addedOrReduced": "Added on 07/09/2024 by Sugdens, Queensbury"
+    },
+    {
+        "price": "£279,950",
+        "price_qualifier": null,
+        "displayAddress": "Beech Avenue, Denholme, Bradford",
+        "summary": "Offered with no onward chain is a very well appointed and extended four bedroom semi detached home in a most sought after residential location, with excellent views to the rear. Situated in a popular cul de sac of similar high caliber homes, a viewing to appreciate the size and quality o...",
+        "phone_number": "01274 003939",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "4",
+        "bathrooms": "1",
+        "displayStatus": null,
+        "addedOrReduced": "Added on 13/08/2024 by Hunters, Bingley"
     },
     {
         "price": "£279,000",
@@ -1837,15 +1837,15 @@
     },
     {
         "price": "£270,000",
-        "price_qualifier": null,
-        "displayAddress": "Thornton Road, Thornton, BD13",
-        "summary": "BEAUTIFULLY PRESENTED THREE BEDROOM SEMI-DETACHED BUNGALOW SAT ON A GENEROUS PLOT OFFERING AMPLE OFF-STREET PARKING & A SUBSTANTIAL GARDEN TO REAR!",
-        "phone_number": "01274 015303",
-        "propertySubType": "Semi-Detached Bungalow",
-        "bedrooms": "3",
+        "price_qualifier": "Offers Over",
+        "displayAddress": "Commercial Street, Queensbury, Bradford, West Yorkshire, BD13",
+        "summary": "Robert Watts Land & New Homes offer for sale, new build DETACHED, that provides 4 Bedroomed accommodation. Situated on this small, SELECT COURTYARD DEVELOPMENT WITHIN QUEENSBURY VILLAGE, of only 9 houses in total, with this been the only Detached. Offers flexible living accomdoation with Loun...",
+        "phone_number": "01274 003296",
+        "propertySubType": "Detached",
+        "bedrooms": "4",
         "bathrooms": "1",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 26/11/2024 by Bronte Estate Agents, Queensbury"
+        "displayStatus": "NEW HOME",
+        "addedOrReduced": "Reduced on 13/06/2024 by Robert Watts, Wibsey"
     },
     {
         "price": "£270,000",
@@ -1861,15 +1861,15 @@
     },
     {
         "price": "£270,000",
-        "price_qualifier": "Offers Over",
-        "displayAddress": "Commercial Street, Queensbury, Bradford, West Yorkshire, BD13",
-        "summary": "Robert Watts Land & New Homes offer for sale, new build DETACHED, that provides 4 Bedroomed accommodation. Situated on this small, SELECT COURTYARD DEVELOPMENT WITHIN QUEENSBURY VILLAGE, of only 9 houses in total, with this been the only Detached. Offers flexible living accomdoation with Loun...",
-        "phone_number": "01274 003296",
-        "propertySubType": "Detached",
-        "bedrooms": "4",
+        "price_qualifier": null,
+        "displayAddress": "Thornton Road, Thornton, BD13",
+        "summary": "BEAUTIFULLY PRESENTED THREE BEDROOM SEMI-DETACHED BUNGALOW SAT ON A GENEROUS PLOT OFFERING AMPLE OFF-STREET PARKING & A SUBSTANTIAL GARDEN TO REAR!",
+        "phone_number": "01274 015303",
+        "propertySubType": "Semi-Detached Bungalow",
+        "bedrooms": "3",
         "bathrooms": "1",
-        "displayStatus": "NEW HOME",
-        "addedOrReduced": "Reduced on 13/06/2024 by Robert Watts, Wibsey"
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 26/11/2024 by Bronte Estate Agents, Queensbury"
     },
     {
         "price": "£265,000",
@@ -1885,15 +1885,15 @@
     },
     {
         "price": "£265,000",
-        "price_qualifier": "Guide Price",
-        "displayAddress": "Halifax Road, Cullingworth, West Yorkshire, BD13",
-        "summary": "Delightfully situated within a highly acclaimed and much sought after village location is a beautifully presented and recently modernised two bedroom semi detached bungalow offering attractive living accommodation enjoying gardens and garage. NO CHAIN",
-        "phone_number": "01274 003169",
-        "propertySubType": "Bungalow",
-        "bedrooms": "2",
+        "price_qualifier": null,
+        "displayAddress": "West End, Queensbury, Bradford",
+        "summary": "** IMPOSING MID-TERRACE PROPERTY ** FOUR BEDROOMS ** DECEPTIVELY SPACIOUS ** LARGE REAR GARDEN & GARAGE ** NEW KITCHEN & BATHROOM ** Bronte Estates are pleased to offer for sale this large characterful terraced property opposite the church in Queensbury. A unique feature of this period property i...",
+        "phone_number": "01274 015303",
+        "propertySubType": "End of Terrace",
+        "bedrooms": "4",
         "bathrooms": "1",
         "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 03/08/2024 by Dacre Son & Hartley, Bingley"
+        "addedOrReduced": "Added on 08/10/2024 by Bronte Estate Agents, Queensbury"
     },
     {
         "price": "£265,000",
@@ -1910,18 +1910,6 @@
     {
         "price": "£265,000",
         "price_qualifier": null,
-        "displayAddress": "West End, Queensbury, Bradford",
-        "summary": "** IMPOSING MID-TERRACE PROPERTY ** FOUR BEDROOMS ** DECEPTIVELY SPACIOUS ** LARGE REAR GARDEN & GARAGE ** NEW KITCHEN & BATHROOM ** Bronte Estates are pleased to offer for sale this large characterful terraced property opposite the church in Queensbury. A unique feature of this period property i...",
-        "phone_number": "01274 015303",
-        "propertySubType": "End of Terrace",
-        "bedrooms": "4",
-        "bathrooms": "1",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 08/10/2024 by Bronte Estate Agents, Queensbury"
-    },
-    {
-        "price": "£265,000",
-        "price_qualifier": null,
         "displayAddress": "Back Lane, Queensbury, BD13",
         "summary": "Immaculate THREE BEDROOM SEMI-DETACHED in Clayton Heights with ENVIABLE CORNER PLOT. Versatile layout with 3/4 beds, TWO RECEPTION ROOMS. OWNED SOLAR PANEL WITH INCOME. Expansive outdoor space includes landscaped gardens and decked patio. Driveway for 3+ cars and detached garage with EV charging ...",
         "phone_number": "01274 003311",
@@ -1932,16 +1920,16 @@
         "addedOrReduced": "Added on 29/08/2024 by Righthaus Properties, Bradford"
     },
     {
-        "price": "£264,995",
-        "price_qualifier": null,
-        "displayAddress": "Thornton Road, Thornton, Bradford, BD13 3NW",
-        "summary": "The Brandon is a stunning three bedroom home perfectly designed for modern living. Benefitting from a beautiful kitchen-diner with French doors out to your own garden, a separate living room and downstairs WC this home has everything you need and more. Upstairs you'll find three well proportioned...",
-        "phone_number": "01274 003409",
-        "propertySubType": "Detached",
-        "bedrooms": "3",
-        "bathrooms": null,
-        "displayStatus": "NEW HOME",
-        "addedOrReduced": "Added on 28/09/2024 by Gleeson Homes (Yorkshire West)"
+        "price": "£265,000",
+        "price_qualifier": "Guide Price",
+        "displayAddress": "Halifax Road, Cullingworth, West Yorkshire, BD13",
+        "summary": "Delightfully situated within a highly acclaimed and much sought after village location is a beautifully presented and recently modernised two bedroom semi detached bungalow offering attractive living accommodation enjoying gardens and garage. NO CHAIN",
+        "phone_number": "01274 003169",
+        "propertySubType": "Bungalow",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 03/08/2024 by Dacre Son & Hartley, Bingley"
     },
     {
         "price": "£264,995",
@@ -1954,6 +1942,18 @@
         "bathrooms": null,
         "displayStatus": "NEW HOME",
         "addedOrReduced": "Added on 19/07/2024 by Gleeson Homes (Yorkshire West)"
+    },
+    {
+        "price": "£264,995",
+        "price_qualifier": null,
+        "displayAddress": "Thornton Road, Thornton, Bradford, BD13 3NW",
+        "summary": "The Brandon is a stunning three bedroom home perfectly designed for modern living. Benefitting from a beautiful kitchen-diner with French doors out to your own garden, a separate living room and downstairs WC this home has everything you need and more. Upstairs you'll find three well proportioned...",
+        "phone_number": "01274 003409",
+        "propertySubType": "Detached",
+        "bedrooms": "3",
+        "bathrooms": null,
+        "displayStatus": "NEW HOME",
+        "addedOrReduced": "Added on 28/09/2024 by Gleeson Homes (Yorkshire West)"
     },
     {
         "price": "£262,995",
@@ -1970,18 +1970,6 @@
     {
         "price": "£260,000",
         "price_qualifier": null,
-        "displayAddress": "Moor Close Road, Queensbury, Bradford",
-        "summary": "** EXTENDED TWO/THREE BEDROOM SEMI DETACHED ** DECEPTIVELY SPACIOUS ** TWO RECEPTION ROOMS ** CONSERVATORY ** EN-SUITE TO MASTER BEDROOM ** DELIGHTFUL REAR GARDEN ** This spacious bungalow on Moor Close Road in Queensbury offers good-sized rooms throughout, off-road parking and gardens front and ...",
-        "phone_number": "01274 015303",
-        "propertySubType": "Semi-Detached Bungalow",
-        "bedrooms": "3",
-        "bathrooms": "2",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 24/09/2024 by Bronte Estate Agents, Queensbury"
-    },
-    {
-        "price": "£260,000",
-        "price_qualifier": null,
         "displayAddress": "Pendle Court, Queensbury, Bradford",
         "summary": "* SEMI DETACHED * THREE BEDROOMS * CUL-DE-SAC * SUPERB RURAL VIEWS * * CONSERVATORY * TWO RECEPTION ROOMS * TWO BATH/SHOWER ROOMS * This spacious three bedroom semi detached property would make an excellent purchase for a number of buyers. Situated in a cul-de-sac location and enj...",
         "phone_number": "01274 003968",
@@ -1990,6 +1978,18 @@
         "bathrooms": "2",
         "displayStatus": null,
         "addedOrReduced": "Added on 26/11/2024 by Sugdens, Queensbury"
+    },
+    {
+        "price": "£260,000",
+        "price_qualifier": null,
+        "displayAddress": "Moor Close Road, Queensbury, Bradford",
+        "summary": "** EXTENDED TWO/THREE BEDROOM SEMI DETACHED ** DECEPTIVELY SPACIOUS ** TWO RECEPTION ROOMS ** CONSERVATORY ** EN-SUITE TO MASTER BEDROOM ** DELIGHTFUL REAR GARDEN ** This spacious bungalow on Moor Close Road in Queensbury offers good-sized rooms throughout, off-road parking and gardens front and ...",
+        "phone_number": "01274 015303",
+        "propertySubType": "Semi-Detached Bungalow",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "displayStatus": null,
+        "addedOrReduced": "Added on 24/09/2024 by Bronte Estate Agents, Queensbury"
     },
     {
         "price": "£260,000",
@@ -2053,63 +2053,27 @@
     },
     {
         "price": "£250,000",
+        "price_qualifier": "Guide Price",
+        "displayAddress": "Back Lane, Thornton, Bradford",
+        "summary": "Stunning barn conversion in semi rural setting. Unique property with bags of character. Must be viewed!!! This mid property forming part of original barn benefits from feature 'barn-door' windows, beams and several original features.",
+        "phone_number": "01274 003042",
+        "propertySubType": "Barn Conversion",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Reduced on 20/08/2024 by William H. Brown, Wibsey"
+    },
+    {
+        "price": "£250,000",
         "price_qualifier": "Offers Over",
-        "displayAddress": "New Copperas House, Halifax Road, Denholme, Bradford",
-        "summary": "* DETACHED BUNGALOW * THREE BEDROOMS * STUNNING VIEWS * NO CHAIN * * GOOD SIZED GARDENS * SEMI RURAL LOCATION * GARAGES * AMPLE PARKING * Available with no onward chain, is this unique three bedroom detached bungalow. Viewing essential to fully appreciate the substantial footprint and...",
-        "phone_number": "01274 003968",
+        "displayAddress": "Moor Close Road, Queensbury, Bradford",
+        "summary": "A three bedroom Detached Bungalow situated in the highly desirable location of Queensbury. Benefitting from spacious living accommodation throughout, Modern shower room, Driveway, Double Garage and Front & Rear Gardens! Call us now to book your viewing!",
+        "phone_number": "01422 413767",
         "propertySubType": "Detached Bungalow",
         "bedrooms": "3",
         "bathrooms": "1",
         "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 12/08/2024 by Sugdens, Queensbury"
-    },
-    {
-        "price": "£250,000",
-        "price_qualifier": "Offers Over",
-        "displayAddress": "Russell Hall Lane, Queensbury, Bradford",
-        "summary": "This spacious two-bedroom semi-detached property dating back to the 1800's, offers character, space, ample parking, well-maintained front and rear gardens, and a versatile layout. With its convenient features and prime location, it provides an excellent opportunity for comfortable family living.",
-        "phone_number": "01422 413027",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "2",
-        "bathrooms": "1",
-        "displayStatus": null,
-        "addedOrReduced": "Reduced on 18/11/2024 by Reloc8 Properties, West Yorkshire"
-    },
-    {
-        "price": "£250,000",
-        "price_qualifier": null,
-        "displayAddress": "Perseverance Road, Queensbury, Bradford, West Yorkshire, BD13",
-        "summary": "Charming End of Terrace Cottage with picturesque views in a tranquil rural setting. This homely property boasts spacious interiors, a lovely garden, patio area, and off-street parking. This has the potential to become the perfect home. EPC: E",
-        "phone_number": "01422 412577",
-        "propertySubType": "End of Terrace",
-        "bedrooms": "3",
-        "bathrooms": "2",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 29/09/2024 by Ryder & Dutton, Halifax"
-    },
-    {
-        "price": "£250,000",
-        "price_qualifier": null,
-        "displayAddress": "Ash Tree Avenue, Thornton",
-        "summary": "* EXTENDED SEMI DETACHED * FOUR BEDROOMS * SPACIOUS * VIEWS TO REAR * * THREE RECEPTION ROOMS * TWO BATH/SHOWER ROOMS * Situated on the outskirts of Thornton village is deceptively spacious four bedroom extended semi detached property. The property would make an ideal purchase for ...",
-        "phone_number": "01274 003968",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "4",
-        "bathrooms": "2",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 14/08/2024 by Sugdens, Queensbury"
-    },
-    {
-        "price": "£250,000",
-        "price_qualifier": null,
-        "displayAddress": "Moor Close Road, Queensbury, BD13 2EA",
-        "summary": "A true detached bungalow with gardens to three sides, off road parking and a garage. Although the property has been well cared for, it does offer the prospective purchaser the opportunity to generally modernise to their own taste and liking. Located in a highly regarded location.",
-        "phone_number": "01484 627750",
-        "propertySubType": "Detached Bungalow",
-        "bedrooms": "3",
-        "bathrooms": "1",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 05/12/2024 by HORSFIELD RESIDENTIAL LIMITED, Brighouse"
+        "addedOrReduced": "Reduced on 20/09/2024 by William H. Brown, Halifax"
     },
     {
         "price": "£250,000",
@@ -2126,14 +2090,50 @@
     {
         "price": "£250,000",
         "price_qualifier": "Offers Over",
-        "displayAddress": "Moor Close Road, Queensbury, Bradford",
-        "summary": "A three bedroom Detached Bungalow situated in the highly desirable location of Queensbury. Benefitting from spacious living accommodation throughout, Modern shower room, Driveway, Double Garage and Front & Rear Gardens! Call us now to book your viewing!",
-        "phone_number": "01422 413767",
-        "propertySubType": "Detached Bungalow",
+        "displayAddress": "Russell Hall Lane, Queensbury, Bradford",
+        "summary": "This spacious two-bedroom semi-detached property dating back to the 1800's, offers character, space, ample parking, well-maintained front and rear gardens, and a versatile layout. With its convenient features and prime location, it provides an excellent opportunity for comfortable family living.",
+        "phone_number": "01422 413027",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "displayStatus": null,
+        "addedOrReduced": "Reduced on 18/11/2024 by Reloc8 Properties, West Yorkshire"
+    },
+    {
+        "price": "£250,000",
+        "price_qualifier": null,
+        "displayAddress": "Ash Tree Avenue, Thornton",
+        "summary": "* EXTENDED SEMI DETACHED * FOUR BEDROOMS * SPACIOUS * VIEWS TO REAR * * THREE RECEPTION ROOMS * TWO BATH/SHOWER ROOMS * Situated on the outskirts of Thornton village is deceptively spacious four bedroom extended semi detached property. The property would make an ideal purchase for ...",
+        "phone_number": "01274 003968",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 14/08/2024 by Sugdens, Queensbury"
+    },
+    {
+        "price": "£250,000",
+        "price_qualifier": "Guide Price",
+        "displayAddress": "Halifax Road, Cullingworth, West Yorkshire, BD13",
+        "summary": "A superb opportunity to purchase a stone built three bedroom double fronted period home offering a wealth of character features and deceptively spacious accommodation enjoying gardens at the rear delightfully situated within a prestigious residential village. NO CHAIN",
+        "phone_number": "01274 003169",
+        "propertySubType": "Terraced",
         "bedrooms": "3",
         "bathrooms": "1",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Reduced on 20/09/2024 by William H. Brown, Halifax"
+        "displayStatus": null,
+        "addedOrReduced": "Added on 02/12/2024 by Dacre Son & Hartley, Bingley"
+    },
+    {
+        "price": "£250,000",
+        "price_qualifier": null,
+        "displayAddress": "Perseverance Road, Queensbury, Bradford, West Yorkshire, BD13",
+        "summary": "Charming End of Terrace Cottage with picturesque views in a tranquil rural setting. This homely property boasts spacious interiors, a lovely garden, patio area, and off-street parking. This has the potential to become the perfect home. EPC: E",
+        "phone_number": "01422 412577",
+        "propertySubType": "End of Terrace",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "displayStatus": null,
+        "addedOrReduced": "Added on 29/09/2024 by Ryder & Dutton, Halifax"
     },
     {
         "price": "£250,000",
@@ -2149,27 +2149,27 @@
     },
     {
         "price": "£250,000",
-        "price_qualifier": "Guide Price",
-        "displayAddress": "Back Lane, Thornton, Bradford",
-        "summary": "Stunning barn conversion in semi rural setting. Unique property with bags of character. Must be viewed!!! This mid property forming part of original barn benefits from feature 'barn-door' windows, beams and several original features.",
-        "phone_number": "01274 003042",
-        "propertySubType": "Barn Conversion",
-        "bedrooms": "3",
-        "bathrooms": "2",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Reduced on 20/08/2024 by William H. Brown, Wibsey"
-    },
-    {
-        "price": "£250,000",
-        "price_qualifier": "Guide Price",
-        "displayAddress": "Halifax Road, Cullingworth, West Yorkshire, BD13",
-        "summary": "A superb opportunity to purchase a stone built three bedroom double fronted period home offering a wealth of character features and deceptively spacious accommodation enjoying gardens at the rear delightfully situated within a prestigious residential village. NO CHAIN",
-        "phone_number": "01274 003169",
-        "propertySubType": "Terraced",
+        "price_qualifier": null,
+        "displayAddress": "Moor Close Road, Queensbury, BD13 2EA",
+        "summary": "A true detached bungalow with gardens to three sides, off road parking and a garage. Although the property has been well cared for, it does offer the prospective purchaser the opportunity to generally modernise to their own taste and liking. Located in a highly regarded location.",
+        "phone_number": "01484 627750",
+        "propertySubType": "Detached Bungalow",
         "bedrooms": "3",
         "bathrooms": "1",
         "displayStatus": null,
-        "addedOrReduced": "Added on 02/12/2024 by Dacre Son & Hartley, Bingley"
+        "addedOrReduced": "Added on 05/12/2024 by HORSFIELD RESIDENTIAL LIMITED, Brighouse"
+    },
+    {
+        "price": "£250,000",
+        "price_qualifier": "Offers Over",
+        "displayAddress": "New Copperas House, Halifax Road, Denholme, Bradford",
+        "summary": "* DETACHED BUNGALOW * THREE BEDROOMS * STUNNING VIEWS * NO CHAIN * * GOOD SIZED GARDENS * SEMI RURAL LOCATION * GARAGES * AMPLE PARKING * Available with no onward chain, is this unique three bedroom detached bungalow. Viewing essential to fully appreciate the substantial footprint and...",
+        "phone_number": "01274 003968",
+        "propertySubType": "Detached Bungalow",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 12/08/2024 by Sugdens, Queensbury"
     },
     {
         "price": "£249,995",
@@ -2198,18 +2198,6 @@
     {
         "price": "£245,000",
         "price_qualifier": null,
-        "displayAddress": "Uplands Crescent, Clayton Heights, Bradford",
-        "summary": "** EXTENDED THREE BEDROOM SEMI DETACHED ** LARGE PLOT ** GROUND FLOOR EXTENSION & CONSERVATORY ** LANDSCAPED REAR GARDEN WITH STREAM WATER FEATURE ** GATED DRIVEWAY ** Bronte Estates are pleased to offer for sale this well presented property in the Clayton Heights area of Bradford. To the front i...",
-        "phone_number": "01274 015303",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "3",
-        "bathrooms": "1",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 13/09/2024 by Bronte Estate Agents, Queensbury"
-    },
-    {
-        "price": "£245,000",
-        "price_qualifier": null,
         "displayAddress": "Station Road, Cullingworth, Bradford",
         "summary": "A unique opportunity to acquire a substantial property which is in need of modernisation throughout, which offers any would be purchasers an excellent degree of flexibility and versatility. The mature home which comprises entrance hall with storage and cellar access, lounge, kitchen and...",
         "phone_number": "01274 003939",
@@ -2218,6 +2206,18 @@
         "bathrooms": "2",
         "displayStatus": null,
         "addedOrReduced": "Reduced on 11/11/2024 by Hunters, Bingley"
+    },
+    {
+        "price": "£245,000",
+        "price_qualifier": null,
+        "displayAddress": "Uplands Crescent, Clayton Heights, Bradford",
+        "summary": "** EXTENDED THREE BEDROOM SEMI DETACHED ** LARGE PLOT ** GROUND FLOOR EXTENSION & CONSERVATORY ** LANDSCAPED REAR GARDEN WITH STREAM WATER FEATURE ** GATED DRIVEWAY ** Bronte Estates are pleased to offer for sale this well presented property in the Clayton Heights area of Bradford. To the front i...",
+        "phone_number": "01274 015303",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 13/09/2024 by Bronte Estate Agents, Queensbury"
     },
     {
         "price": "£245,000",
@@ -2293,18 +2293,6 @@
     },
     {
         "price": "£240,000",
-        "price_qualifier": "Offers in Excess of",
-        "displayAddress": "Black Myres Close, Queensbury, Bradford",
-        "summary": "FOUR BEDROOM SEMI-DETACHED FAMILY HOME WITHIN CATCHMENT FOR WELL-REGARDED SCHOOLS & EXCELLENT TRANSPORT LINKS INTO HALIFAX & BRADFORD!",
-        "phone_number": "01274 015303",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "4",
-        "bathrooms": "2",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Reduced on 19/09/2024 by Bronte Estate Agents, Queensbury"
-    },
-    {
-        "price": "£240,000",
         "price_qualifier": "Guide Price",
         "displayAddress": "Bronte Court, Thornton, Bradford, West Yorkshire, BD13",
         "summary": "A superbly presented three bedroom end terraced home offering attractive open living accommodation with private lawned garden delightfully situated within a popular residential location",
@@ -2314,6 +2302,18 @@
         "bathrooms": "2",
         "displayStatus": null,
         "addedOrReduced": "Added on 07/11/2024 by Dacre Son & Hartley, Saltaire"
+    },
+    {
+        "price": "£240,000",
+        "price_qualifier": "Guide Price",
+        "displayAddress": "Mill Street, Cullingworth, BD13",
+        "summary": "A beautifully appointed character end-terrace which boasts stylish living accommodation planned over three floors. This superb property offers three double bedrooms including an ensuite with master, an extended dining kitchen along with a fabulous private garden. Conveniently located within the p...",
+        "phone_number": "01274 003169",
+        "propertySubType": "End of Terrace",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 08/10/2024 by Dacre Son & Hartley, Bingley"
     },
     {
         "price": "£240,000",
@@ -2329,15 +2329,15 @@
     },
     {
         "price": "£240,000",
-        "price_qualifier": "Guide Price",
-        "displayAddress": "Mill Street, Cullingworth, BD13",
-        "summary": "A beautifully appointed character end-terrace which boasts stylish living accommodation planned over three floors. This superb property offers three double bedrooms including an ensuite with master, an extended dining kitchen along with a fabulous private garden. Conveniently located within the p...",
-        "phone_number": "01274 003169",
-        "propertySubType": "End of Terrace",
-        "bedrooms": "3",
+        "price_qualifier": "Offers in Excess of",
+        "displayAddress": "Black Myres Close, Queensbury, Bradford",
+        "summary": "FOUR BEDROOM SEMI-DETACHED FAMILY HOME WITHIN CATCHMENT FOR WELL-REGARDED SCHOOLS & EXCELLENT TRANSPORT LINKS INTO HALIFAX & BRADFORD!",
+        "phone_number": "01274 015303",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "4",
         "bathrooms": "2",
         "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 08/10/2024 by Dacre Son & Hartley, Bingley"
+        "addedOrReduced": "Reduced on 19/09/2024 by Bronte Estate Agents, Queensbury"
     },
     {
         "price": "£239,995",
@@ -2377,6 +2377,18 @@
     },
     {
         "price": "£239,950",
+        "price_qualifier": null,
+        "displayAddress": "Back Lane, Queensbury",
+        "summary": "* * SEMI DETACHED BUNGALOW * * TWO BEDROOMS * * TWO RECEPTION ROOMS * * * * CORNER PLOT * * STUNNING VIEWS * * GARDENS & GARAGE * * Introducing this superb two-bedroom semi-detached bungalow, offering stunning far-reaching views. Situated on a corner plot, this property boasts a me...",
+        "phone_number": "01274 003968",
+        "propertySubType": "Semi-Detached Bungalow",
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "displayStatus": null,
+        "addedOrReduced": "Reduced on 19/07/2024 by Sugdens, Queensbury"
+    },
+    {
+        "price": "£239,950",
         "price_qualifier": "Guide Price",
         "displayAddress": "Manywells Close, Cullingworth, West Yorkshire, BD13",
         "summary": "A beautifully presented three bedroom middle townhouse offering good quality family living accommodation with superb enclosed gardens, driveway with parking delightfully situated within a prestigious residential location.",
@@ -2398,18 +2410,6 @@
         "bathrooms": "1",
         "displayStatus": "SOLD STC",
         "addedOrReduced": "Added on 07/08/2024 by Dacre Son & Hartley, Bingley"
-    },
-    {
-        "price": "£239,950",
-        "price_qualifier": null,
-        "displayAddress": "Back Lane, Queensbury",
-        "summary": "* * SEMI DETACHED BUNGALOW * * TWO BEDROOMS * * TWO RECEPTION ROOMS * * * * CORNER PLOT * * STUNNING VIEWS * * GARDENS & GARAGE * * Introducing this superb two-bedroom semi-detached bungalow, offering stunning far-reaching views. Situated on a corner plot, this property boasts a me...",
-        "phone_number": "01274 003968",
-        "propertySubType": "Semi-Detached Bungalow",
-        "bedrooms": "2",
-        "bathrooms": "2",
-        "displayStatus": null,
-        "addedOrReduced": "Reduced on 19/07/2024 by Sugdens, Queensbury"
     },
     {
         "price": "£239,500",
@@ -2449,18 +2449,6 @@
     },
     {
         "price": "£230,000",
-        "price_qualifier": null,
-        "displayAddress": "Park Close, Queensbury, Bradford",
-        "summary": "** SUPERB SEMI-DETACHED BUNGALOW ** TWO BEDROOMS PLUS LOFT SPACE ** MANY RECENT IMPROVEMENTS ** CUL-DE-SAC LOCATION ** Bronte Estates are delighted to offer for sale this well presented bungalow in Queensbury. In recent years the property has had a new kitchen and bathroom, loft room conversion, ...",
-        "phone_number": "01274 015303",
-        "propertySubType": "Semi-Detached Bungalow",
-        "bedrooms": "2",
-        "bathrooms": "1",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Reduced on 25/10/2024 by Bronte Estate Agents, Queensbury"
-    },
-    {
-        "price": "£230,000",
         "price_qualifier": "Guide Price",
         "displayAddress": "Halifax Road, Cullingworth, Bradford",
         "summary": "Amazing split level apartment in Grade II listed building. Staircase leading to first floor of the building where the property is accessed. Mezzanine level master bedroom. Communal gardens and allocated parking. Guide price £230,000-£240,000.",
@@ -2470,6 +2458,18 @@
         "bathrooms": "2",
         "displayStatus": null,
         "addedOrReduced": "Added on 04/10/2024 by William H. Brown, Wibsey"
+    },
+    {
+        "price": "£230,000",
+        "price_qualifier": null,
+        "displayAddress": "Park Close, Queensbury, Bradford",
+        "summary": "** SUPERB SEMI-DETACHED BUNGALOW ** TWO BEDROOMS PLUS LOFT SPACE ** MANY RECENT IMPROVEMENTS ** CUL-DE-SAC LOCATION ** Bronte Estates are delighted to offer for sale this well presented bungalow in Queensbury. In recent years the property has had a new kitchen and bathroom, loft room conversion, ...",
+        "phone_number": "01274 015303",
+        "propertySubType": "Semi-Detached Bungalow",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Reduced on 25/10/2024 by Bronte Estate Agents, Queensbury"
     },
     {
         "price": "£230,000",
@@ -2498,42 +2498,6 @@
     {
         "price": "£225,000",
         "price_qualifier": null,
-        "displayAddress": "Hillcrest Road, Thornton, Bradford",
-        "summary": "** THREE BEDROOM SEMI DETACHED ** CORNER PLOT OFFERING POTENTIAL ** MANY RECENT IMPROVEMENTS ** DOUBLE GARAGE & DRIVEWAY ** Bronte Estates are pleased to offer for sale this lovely family home that has recently been re-wired, had a new kitchen, an en-suite installed, new alarm system, mains power...",
-        "phone_number": "01274 015303",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "3",
-        "bathrooms": "1",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 27/09/2024 by Bronte Estate Agents, Queensbury"
-    },
-    {
-        "price": "£225,000",
-        "price_qualifier": null,
-        "displayAddress": "Deanstones Lane, Queensbury, Bradford",
-        "summary": "This property would make an ideal purchase for a young/growing family and is ideally located for both first and secondary schools. Benefits from being on a generous corner plot which offers potential to extend (subject to planning permission). Having a modern fitted kitchen, sliding wardr...",
-        "phone_number": "01274 003968",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "3",
-        "bathrooms": "1",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 04/10/2024 by Sugdens, Queensbury"
-    },
-    {
-        "price": "£225,000",
-        "price_qualifier": "Offers in Region of",
-        "displayAddress": "Greenland Villas, Queensbury, Bradford, West Yorkshire, BD13",
-        "summary": "Take a look at this Well Presented and Contemporary Styled 3 Bedroom Semi Detached Home situated within the sought after residential area of Greenland Villas, Queensbury.  Could it be your next family home?",
-        "phone_number": "03304 700193",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "3",
-        "bathrooms": "1",
-        "displayStatus": null,
-        "addedOrReduced": "Reduced on 10/12/2024 by EweMove, Covering Yorkshire"
-    },
-    {
-        "price": "£225,000",
-        "price_qualifier": null,
         "displayAddress": "Littlemoor, Queensbury",
         "summary": "WELL PRESENTED FAMILY SIZE SEMI DETACHED in a SUPER POSITION on the outskirts of Queensbury village. Briefly comprises SPACIOUS DINING KITCHEN, LOUNGE with SOLID FUEL STOVE, three bedrooms & bathroom.",
         "phone_number": "01274 015303",
@@ -2542,6 +2506,18 @@
         "bathrooms": "1",
         "displayStatus": "SOLD STC",
         "addedOrReduced": "Added on 16/04/2024 by Bronte Estate Agents, Queensbury"
+    },
+    {
+        "price": "£225,000",
+        "price_qualifier": null,
+        "displayAddress": "Hillcrest Road, Thornton, Bradford",
+        "summary": "** THREE BEDROOM SEMI DETACHED ** CORNER PLOT OFFERING POTENTIAL ** MANY RECENT IMPROVEMENTS ** DOUBLE GARAGE & DRIVEWAY ** Bronte Estates are pleased to offer for sale this lovely family home that has recently been re-wired, had a new kitchen, an en-suite installed, new alarm system, mains power...",
+        "phone_number": "01274 015303",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "displayStatus": null,
+        "addedOrReduced": "Added on 27/09/2024 by Bronte Estate Agents, Queensbury"
     },
     {
         "price": "£225,000",
@@ -2570,6 +2546,18 @@
     {
         "price": "£225,000",
         "price_qualifier": null,
+        "displayAddress": "Deanstones Lane, Queensbury, Bradford",
+        "summary": "This property would make an ideal purchase for a young/growing family and is ideally located for both first and secondary schools. Benefits from being on a generous corner plot which offers potential to extend (subject to planning permission). Having a modern fitted kitchen, sliding wardr...",
+        "phone_number": "01274 003968",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 04/10/2024 by Sugdens, Queensbury"
+    },
+    {
+        "price": "£225,000",
+        "price_qualifier": null,
         "displayAddress": "Halifax Road, Denholme, Bradford, BD13",
         "summary": "**A DECEPTIVLEY SPACIOUS THREE DOUBLE BEDROOM FARM HOUSE, POPULAR LOCATION OF DENHOLME GATE WITH FABULOUS COUNTRYSIDE OUTLOOK!!** In need of refurbishment, stunning character features, 2 reception rooms, ample parking - OFFERED FOR SALE WITH NO ONWARD CHAIN!! EPC rating is D.",
         "phone_number": "01535 286799",
@@ -2580,16 +2568,16 @@
         "addedOrReduced": "Reduced on 11/09/2024 by Day & Co Estate Agents Limited, Keighley"
     },
     {
-        "price": "£220,000",
-        "price_qualifier": "Offers Over",
-        "displayAddress": "Foxhill Drive, Queensbury, Bradford",
-        "summary": "* SEMI DETACHED BUNGALOW * THREE BEDROOMS * CLOSE TO AMENITIES * * READY TO MOVE INTO * GARDEN * PARKING * This delightful three bedroom semi-detached dormer bungalow would make an ideal purchase for a number of buyers. Ideally located for amenities, shops, walks and a choice of f...",
-        "phone_number": "01274 003968",
-        "propertySubType": "Semi-Detached Bungalow",
+        "price": "£225,000",
+        "price_qualifier": "Offers in Region of",
+        "displayAddress": "Greenland Villas, Queensbury, Bradford, West Yorkshire, BD13",
+        "summary": "Take a look at this Well Presented and Contemporary Styled 3 Bedroom Semi Detached Home situated within the sought after residential area of Greenland Villas, Queensbury.  Could it be your next family home?",
+        "phone_number": "03304 700193",
+        "propertySubType": "Semi-Detached",
         "bedrooms": "3",
         "bathrooms": "1",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Reduced on 23/07/2024 by Sugdens, Queensbury"
+        "displayStatus": null,
+        "addedOrReduced": "Reduced on 10/12/2024 by EweMove, Covering Yorkshire"
     },
     {
         "price": "£220,000",
@@ -2606,26 +2594,14 @@
     {
         "price": "£220,000",
         "price_qualifier": null,
-        "displayAddress": "Woodsley Fold, Thornton",
-        "summary": "This ideal family home set on the outskirts of Thornton, is handily located for local schools, the heart of the village itself and all local amenities and transport links. Boasting a modern and flexible layout, ideally suited to families, the house benefits from a modern kitchen and neutral d...",
-        "phone_number": "01274 003573",
-        "propertySubType": "End of Terrace",
+        "displayAddress": "Upper Fawth Close, Queensbury, Bradford",
+        "summary": "Public Notice - 17 Upper Fawth Close BD13 1DF We are acting in the sale of the above property and have received an offer of £220,000 Any interested parties must submit any higher offers in writing to the selling agent before an exchange of contracts takes place. EPC rating 75C 85B * ...",
+        "phone_number": "01274 003968",
+        "propertySubType": "Detached",
         "bedrooms": "4",
         "bathrooms": "2",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Reduced on 18/07/2024 by Whitney's, Clayton"
-    },
-    {
-        "price": "£220,000",
-        "price_qualifier": null,
-        "displayAddress": "Heathcliff Mews, Thornton",
-        "summary": "Situated close to the centre of Thornton Village and all amenities is this Modern Mews Style Town House with accommodation over three floors. With a spacious lounge, modern kitchen/diner, three double bedrooms and a good sized rear garden, this property would make the ideal family home!",
-        "phone_number": "01274 003573",
-        "propertySubType": "Town House",
-        "bedrooms": "3",
-        "bathrooms": "2",
         "displayStatus": null,
-        "addedOrReduced": "Added on 11/12/2024 by Whitney's, Clayton"
+        "addedOrReduced": "Added on 02/10/2024 by Sugdens, Queensbury"
     },
     {
         "price": "£220,000",
@@ -2641,27 +2617,27 @@
     },
     {
         "price": "£220,000",
-        "price_qualifier": null,
-        "displayAddress": "Off Brighouse/Denholme Road, Queensbury",
-        "summary": "Golf View is an exclusive development of only 10 semi detached properties which have been built upon the former church of the Nazarene. Offering in excess of 1,200 sqft of accommodation across 3 well proportioned levels, the property boasts a generous dining kitchen with living space, as well as ...",
-        "phone_number": "01422 415119",
-        "propertySubType": "Semi-Detached",
+        "price_qualifier": "Offers Over",
+        "displayAddress": "Foxhill Drive, Queensbury, Bradford",
+        "summary": "* SEMI DETACHED BUNGALOW * THREE BEDROOMS * CLOSE TO AMENITIES * * READY TO MOVE INTO * GARDEN * PARKING * This delightful three bedroom semi-detached dormer bungalow would make an ideal purchase for a number of buyers. Ideally located for amenities, shops, walks and a choice of f...",
+        "phone_number": "01274 003968",
+        "propertySubType": "Semi-Detached Bungalow",
         "bedrooms": "3",
-        "bathrooms": "2",
-        "displayStatus": null,
-        "addedOrReduced": "Reduced on 20/03/2024 by Bramleys, Elland"
+        "bathrooms": "1",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Reduced on 23/07/2024 by Sugdens, Queensbury"
     },
     {
         "price": "£220,000",
         "price_qualifier": null,
-        "displayAddress": "Upper Fawth Close, Queensbury, Bradford",
-        "summary": "Public Notice - 17 Upper Fawth Close BD13 1DF We are acting in the sale of the above property and have received an offer of £220,000 Any interested parties must submit any higher offers in writing to the selling agent before an exchange of contracts takes place. EPC rating 75C 85B * ...",
-        "phone_number": "01274 003968",
-        "propertySubType": "Detached",
+        "displayAddress": "Woodsley Fold, Thornton",
+        "summary": "This ideal family home set on the outskirts of Thornton, is handily located for local schools, the heart of the village itself and all local amenities and transport links. Boasting a modern and flexible layout, ideally suited to families, the house benefits from a modern kitchen and neutral d...",
+        "phone_number": "01274 003573",
+        "propertySubType": "End of Terrace",
         "bedrooms": "4",
         "bathrooms": "2",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 02/10/2024 by Sugdens, Queensbury"
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Reduced on 18/07/2024 by Whitney's, Clayton"
     },
     {
         "price": "£220,000",
@@ -2674,6 +2650,30 @@
         "bathrooms": "2",
         "displayStatus": "SOLD STC",
         "addedOrReduced": "Added on 17/07/2024 by Reloc8 Properties, West Yorkshire"
+    },
+    {
+        "price": "£220,000",
+        "price_qualifier": null,
+        "displayAddress": "Heathcliff Mews, Thornton",
+        "summary": "Situated close to the centre of Thornton Village and all amenities is this Modern Mews Style Town House with accommodation over three floors. With a spacious lounge, modern kitchen/diner, three double bedrooms and a good sized rear garden, this property would make the ideal family home!",
+        "phone_number": "01274 003573",
+        "propertySubType": "Town House",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "displayStatus": null,
+        "addedOrReduced": "Added on 11/12/2024 by Whitney's, Clayton"
+    },
+    {
+        "price": "£220,000",
+        "price_qualifier": null,
+        "displayAddress": "Off Brighouse/Denholme Road, Queensbury",
+        "summary": "Golf View is an exclusive development of only 10 semi detached properties which have been built upon the former church of the Nazarene. Offering in excess of 1,200 sqft of accommodation across 3 well proportioned levels, the property boasts a generous dining kitchen with living space, as well as ...",
+        "phone_number": "01422 415119",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "displayStatus": null,
+        "addedOrReduced": "Reduced on 20/03/2024 by Bramleys, Elland"
     },
     {
         "price": "£219,950",
@@ -2690,6 +2690,18 @@
     {
         "price": "£215,000",
         "price_qualifier": null,
+        "displayAddress": "Weston Vale Road, Queensbury, Bradford",
+        "summary": "This delightful 3-bedroom semi-detached property is now on the market, offering an array of modern amenities and thoughtful details. The home features a newly installed boiler, parking for up to six cars, a laddered and boarded loft with electrical fittings, a sunny southeast-facing garden, and U...",
+        "phone_number": "01422 413027",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 15/08/2024 by Reloc8 Properties, West Yorkshire"
+    },
+    {
+        "price": "£215,000",
+        "price_qualifier": null,
         "displayAddress": "South Street, Denholme, Bradford, West Yorkshire, BD13",
         "summary": "A BEAUTIFULLY PRESENTED three bedroom semi detached property in a SOUGHT AFTER VILLAGE location with far reaching VIEWS, good sized gardens and GARAGE.",
         "phone_number": "01274 560321",
@@ -2702,26 +2714,14 @@
     {
         "price": "£215,000",
         "price_qualifier": null,
-        "displayAddress": "Fleet Lane, Queensbury, Bradford",
-        "summary": "** THREE BEDROOM SEMI DETACHED ** GARDENS, GARAGE & DRIVEWAY ** WELL PRESENTED ** SOLID FUEL STOVE ** This ideal family home on Fleet Lane in Queensbury is sure to be popular. Enjoying a modern fitted dining kitchen, gas central heating, double glazing and an enclosed rear garden. Briefly compris...",
-        "phone_number": "01274 015303",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "3",
-        "bathrooms": "1",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 12/12/2024 by Bronte Estate Agents, Queensbury"
-    },
-    {
-        "price": "£215,000",
-        "price_qualifier": null,
-        "displayAddress": "Weston Vale Road, Queensbury, Bradford",
-        "summary": "This delightful 3-bedroom semi-detached property is now on the market, offering an array of modern amenities and thoughtful details. The home features a newly installed boiler, parking for up to six cars, a laddered and boarded loft with electrical fittings, a sunny southeast-facing garden, and U...",
-        "phone_number": "01422 413027",
+        "displayAddress": "Deanstones Crescent, Queensbury, Bradford, BD13",
+        "summary": "** A WELL PRESENTED, EXTENDED SEMI-DETACHED HOUSE, THREE BEDROOMS, MODERN FITTED KITCHEN DINER, GOOD SIZED REAR GARDEN, OFF ROAD PARKING, CUL-DE-SAC LOCATION, INTERNAL VIEWING ADVISED, NO ONWARD CHAIN, EPC RATING D **",
+        "phone_number": "01535 286799",
         "propertySubType": "Semi-Detached",
         "bedrooms": "3",
         "bathrooms": "1",
         "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 15/08/2024 by Reloc8 Properties, West Yorkshire"
+        "addedOrReduced": "Added on 04/10/2024 by Day & Co Estate Agents Limited, Keighley"
     },
     {
         "price": "£215,000",
@@ -2738,38 +2738,14 @@
     {
         "price": "£215,000",
         "price_qualifier": null,
-        "displayAddress": "Deanstones Crescent, Queensbury, Bradford, BD13",
-        "summary": "** A WELL PRESENTED, EXTENDED SEMI-DETACHED HOUSE, THREE BEDROOMS, MODERN FITTED KITCHEN DINER, GOOD SIZED REAR GARDEN, OFF ROAD PARKING, CUL-DE-SAC LOCATION, INTERNAL VIEWING ADVISED, NO ONWARD CHAIN, EPC RATING D **",
-        "phone_number": "01535 286799",
+        "displayAddress": "Fleet Lane, Queensbury, Bradford",
+        "summary": "** THREE BEDROOM SEMI DETACHED ** GARDENS, GARAGE & DRIVEWAY ** WELL PRESENTED ** SOLID FUEL STOVE ** This ideal family home on Fleet Lane in Queensbury is sure to be popular. Enjoying a modern fitted dining kitchen, gas central heating, double glazing and an enclosed rear garden. Briefly compris...",
+        "phone_number": "01274 015303",
         "propertySubType": "Semi-Detached",
         "bedrooms": "3",
         "bathrooms": "1",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 04/10/2024 by Day & Co Estate Agents Limited, Keighley"
-    },
-    {
-        "price": "£210,000",
-        "price_qualifier": null,
-        "displayAddress": "Chapel House, Halifax Road, Cullingworth, Bingley, Bradford, BD13 5EF",
-        "summary": "A stunning three-bedroom duplex in a Grade II listed chapel in Cullingworth Village. Features spacious interiors, private garden, communal grounds, two bathrooms, and allocated parking. Ideally located near local shops, schools, and transport links.",
-        "phone_number": "0117 463 2797",
-        "propertySubType": "Flat",
-        "bedrooms": "3",
-        "bathrooms": "2",
         "displayStatus": null,
-        "addedOrReduced": "Reduced on 25/10/2024 by SmoothSale, Leeds"
-    },
-    {
-        "price": "£210,000",
-        "price_qualifier": null,
-        "displayAddress": "Buffham Pastures, Thornton, Bradford",
-        "summary": "***THREE BEDROOM 'DETACHED' FAMILY HOME*** Situated on the outskirts of Thornton Village is this THREE DOUBLE BEDROOM family home benefiting from OFF-STREET PARKING, INTEGRAL GARAGE, ENCLOSED REAR GARDEN, GROUND FLOOR WC & ENSUITE. Ideal for a number of buyers such as GROWING FAMILIES and/or YOUN...",
-        "phone_number": "01274 015303",
-        "propertySubType": "Detached",
-        "bedrooms": "3",
-        "bathrooms": "2",
-        "displayStatus": null,
-        "addedOrReduced": "Reduced on 29/08/2024 by Bronte Estate Agents, Queensbury"
+        "addedOrReduced": "Added on 12/12/2024 by Bronte Estate Agents, Queensbury"
     },
     {
         "price": "£210,000",
@@ -2786,6 +2762,18 @@
     {
         "price": "£210,000",
         "price_qualifier": null,
+        "displayAddress": "Parkway, Queensbury, Bradford",
+        "summary": "** TWO BEDROOM SEMI DETACHED BUNGALOW ** CONVERTED LOFT SPACE ** CONSERVATORY ** LARGE DINING KITCHEN ** Bronte Estates are pleased to bring to the market this good-sized bungalow in a popular location in Queensbury. To the ground floor is a hallway, spacious lounge, dining kitchen, conservatory,...",
+        "phone_number": "01274 015303",
+        "propertySubType": "Semi-Detached Bungalow",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 06/09/2024 by Bronte Estate Agents, Queensbury"
+    },
+    {
+        "price": "£210,000",
+        "price_qualifier": null,
         "displayAddress": "Parkside Avenue, Queensbury, Bradford, BD13",
         "summary": "BACK FOR SALE DUE TO TIMEWASTERS. ** SUPERB CORNER PLOT POSITION ** CUL DE SAC LOCATION ** Situtaed within this highly sought after village location of Queensbury is this SEMI DETACHED BUNGALOW. The current owners have made significant improvements over recent years to include decoration, ...",
         "phone_number": "01274 003296",
@@ -2794,42 +2782,6 @@
         "bathrooms": "1",
         "displayStatus": "SOLD STC",
         "addedOrReduced": "Reduced on 18/06/2024 by Robert Watts, Wibsey"
-    },
-    {
-        "price": "£210,000",
-        "price_qualifier": "Offers in Region of",
-        "displayAddress": "Ashlar Grove, Queensbury, Bradford, West Yorkshire, BD13",
-        "summary": "Come and take a look at this deceptively spacious 4 Bedroom Semi Detached Home, sat on a good sized plot with large front and rear Gardens.  Located in the popular Village of Queensbury close to local primary and secondary schools, could this be your next home?",
-        "phone_number": "03304 700193",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "4",
-        "bathrooms": "1",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 18/07/2024 by EweMove, Covering Yorkshire"
-    },
-    {
-        "price": "£210,000",
-        "price_qualifier": "Offers in Region of",
-        "displayAddress": "Leaventhorpe Lane, Bradford, West Yorkshire, BD13",
-        "summary": "WONDERFUL FAMILY HOME. SPACIOUS LIVING ACCOMMODATION, THREE GENEROUS SIZE BEDROOMS, LARGE REAR GARDEN, OFF ROAD PARKING FOR A NUMBER OF CARS.",
-        "phone_number": "01484 627440",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "3",
-        "bathrooms": "1",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 08/11/2024 by Fastmove, Yorkshire"
-    },
-    {
-        "price": "£210,000",
-        "price_qualifier": "Offers in Excess of",
-        "displayAddress": "Windsor Grove, Thornton, Bradford, West Yorkshire",
-        "summary": "A beautifully presented semi-detached home boasting plenty of natural light, a spacious lounge through to a dining area, a modern kitchen with integrated appliances and a utility room, a driveway and a large rear garden with an outhouse. Not to be missed!",
-        "phone_number": "0161 416 6302",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "3",
-        "bathrooms": "1",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 12/11/2024 by Springbok Properties, Nationwide"
     },
     {
         "price": "£210,000",
@@ -2857,6 +2809,66 @@
     },
     {
         "price": "£210,000",
+        "price_qualifier": "Offers in Region of",
+        "displayAddress": "Leaventhorpe Lane, Bradford, West Yorkshire, BD13",
+        "summary": "WONDERFUL FAMILY HOME. SPACIOUS LIVING ACCOMMODATION, THREE GENEROUS SIZE BEDROOMS, LARGE REAR GARDEN, OFF ROAD PARKING FOR A NUMBER OF CARS.",
+        "phone_number": "01484 627440",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "displayStatus": null,
+        "addedOrReduced": "Added on 08/11/2024 by Fastmove, Yorkshire"
+    },
+    {
+        "price": "£210,000",
+        "price_qualifier": null,
+        "displayAddress": "Chapel House, Halifax Road, Cullingworth, Bingley, Bradford, BD13 5EF",
+        "summary": "A stunning three-bedroom duplex in a Grade II listed chapel in Cullingworth Village. Features spacious interiors, private garden, communal grounds, two bathrooms, and allocated parking. Ideally located near local shops, schools, and transport links.",
+        "phone_number": "0117 463 2797",
+        "propertySubType": "Flat",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "displayStatus": null,
+        "addedOrReduced": "Reduced on 25/10/2024 by SmoothSale, Leeds"
+    },
+    {
+        "price": "£210,000",
+        "price_qualifier": "Offers in Excess of",
+        "displayAddress": "Windsor Grove, Thornton, Bradford, West Yorkshire",
+        "summary": "A beautifully presented semi-detached home boasting plenty of natural light, a spacious lounge through to a dining area, a modern kitchen with integrated appliances and a utility room, a driveway and a large rear garden with an outhouse. Not to be missed!",
+        "phone_number": "0161 416 6302",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "displayStatus": null,
+        "addedOrReduced": "Added on 12/11/2024 by Springbok Properties, Nationwide"
+    },
+    {
+        "price": "£210,000",
+        "price_qualifier": null,
+        "displayAddress": "Buffham Pastures, Thornton, Bradford",
+        "summary": "***THREE BEDROOM 'DETACHED' FAMILY HOME*** Situated on the outskirts of Thornton Village is this THREE DOUBLE BEDROOM family home benefiting from OFF-STREET PARKING, INTEGRAL GARAGE, ENCLOSED REAR GARDEN, GROUND FLOOR WC & ENSUITE. Ideal for a number of buyers such as GROWING FAMILIES and/or YOUN...",
+        "phone_number": "01274 015303",
+        "propertySubType": "Detached",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "displayStatus": null,
+        "addedOrReduced": "Reduced on 29/08/2024 by Bronte Estate Agents, Queensbury"
+    },
+    {
+        "price": "£210,000",
+        "price_qualifier": "Offers in Region of",
+        "displayAddress": "Ashlar Grove, Queensbury, Bradford, West Yorkshire, BD13",
+        "summary": "Come and take a look at this deceptively spacious 4 Bedroom Semi Detached Home, sat on a good sized plot with large front and rear Gardens.  Located in the popular Village of Queensbury close to local primary and secondary schools, could this be your next home?",
+        "phone_number": "03304 700193",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "4",
+        "bathrooms": "1",
+        "displayStatus": null,
+        "addedOrReduced": "Added on 18/07/2024 by EweMove, Covering Yorkshire"
+    },
+    {
+        "price": "£210,000",
         "price_qualifier": null,
         "displayAddress": "Tempest Close, Denholme, Bradford",
         "summary": "** SPACIOUS, MODERN TOWNHOUSE ** THREE BEDROOMS ** OFFICE/STORAGE ROOM ** WELL PRESENTED THROUGHOUT ** Bronte Estates are delighted to offer for sale this impressive family home in Denholme, built n 2019 and in excellent condition throughout. Briefly comprising of an Entrance Hall, WC, Utility Ro...",
@@ -2866,18 +2878,6 @@
         "bathrooms": "1",
         "displayStatus": "SOLD STC",
         "addedOrReduced": "Added on 31/07/2024 by Bronte Estate Agents, Queensbury"
-    },
-    {
-        "price": "£210,000",
-        "price_qualifier": null,
-        "displayAddress": "Parkway, Queensbury, Bradford",
-        "summary": "** TWO BEDROOM SEMI DETACHED BUNGALOW ** CONVERTED LOFT SPACE ** CONSERVATORY ** LARGE DINING KITCHEN ** Bronte Estates are pleased to bring to the market this good-sized bungalow in a popular location in Queensbury. To the ground floor is a hallway, spacious lounge, dining kitchen, conservatory,...",
-        "phone_number": "01274 015303",
-        "propertySubType": "Semi-Detached Bungalow",
-        "bedrooms": "2",
-        "bathrooms": "1",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 06/09/2024 by Bronte Estate Agents, Queensbury"
     },
     {
         "price": "£209,500",
@@ -2905,18 +2905,6 @@
     },
     {
         "price": "£200,000",
-        "price_qualifier": "Offers Over",
-        "displayAddress": "Burnett Rise, Queensbury, Bradford",
-        "summary": "***THREE BEDROOM FAMILY HOME*** Situated on a QUIET CUL-DE-SAC is this THREE BEDROOM end terraced home in Queensbury, BD13. The property is sat on a SUBSTANTIAL PLOT, providing a garden to front, AMPLE OFF-STREET PARKING,, a detached garage and a GENEROUS REAR GARDEN. Internally, the property bri...",
-        "phone_number": "01274 015303",
-        "propertySubType": "End of Terrace",
-        "bedrooms": "3",
-        "bathrooms": "1",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 31/01/2024 by Bronte Estate Agents, Queensbury"
-    },
-    {
-        "price": "£200,000",
         "price_qualifier": null,
         "displayAddress": "Spring Holes Lane, Thornton, Bradford, West Yorkshire, BD13",
         "summary": "Are you looking for a property that you can just add your own furniture and you're home? Then take a look at this fully renovated 3 Bedroom Semi Detached Home, set in a semi rural location on the outskirts of Thornton Village with Stunning Views across the local countryside and beyond.&a...",
@@ -2926,18 +2914,6 @@
         "bathrooms": "1",
         "displayStatus": null,
         "addedOrReduced": "Added on 22/08/2024 by EweMove, Covering Yorkshire"
-    },
-    {
-        "price": "£200,000",
-        "price_qualifier": null,
-        "displayAddress": "Cowhouse Bridge, Cullingworth, West Yorkshire, BD13",
-        "summary": "We are pleased to offer our most recent renovation property. Having undergone a full modernization program including re-roof, damp proofing, new fitted kitchen, bathroom central heating, double glazing, re-wire and re-plaster. 2 bedrooms, mezzanine office, large garden and excellent views.",
-        "phone_number": "01535 271745",
-        "propertySubType": "Terraced",
-        "bedrooms": "2",
-        "bathrooms": null,
-        "displayStatus": null,
-        "addedOrReduced": "Reduced on 27/09/2024 by Alan Slater Property Services, Bradford"
     },
     {
         "price": "£200,000",
@@ -2954,14 +2930,14 @@
     {
         "price": "£200,000",
         "price_qualifier": null,
-        "displayAddress": "Hugill Street, Thornton, Bradford",
-        "summary": "** STUNNING THREE-FOUR BEDROOM TERRACE ** FULLY REFURBISHED THROUGHOUT ** QUALITY FIXTURES AND FITTINGS ** SET OVER FOUR LEVELS ** This impressive family home in a backwater location in Thornton has recently undergone a full program of modernisation, include; a new roof, re-wired including new sw...",
-        "phone_number": "01274 015303",
+        "displayAddress": "Cowhouse Bridge, Cullingworth, West Yorkshire, BD13",
+        "summary": "We are pleased to offer our most recent renovation property. Having undergone a full modernization program including re-roof, damp proofing, new fitted kitchen, bathroom central heating, double glazing, re-wire and re-plaster. 2 bedrooms, mezzanine office, large garden and excellent views.",
+        "phone_number": "01535 271745",
         "propertySubType": "Terraced",
-        "bedrooms": "4",
-        "bathrooms": "1",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 26/09/2024 by Bronte Estate Agents, Queensbury"
+        "bedrooms": "2",
+        "bathrooms": null,
+        "displayStatus": null,
+        "addedOrReduced": "Reduced on 27/09/2024 by Alan Slater Property Services, Bradford"
     },
     {
         "price": "£200,000",
@@ -2974,6 +2950,30 @@
         "bathrooms": "2",
         "displayStatus": null,
         "addedOrReduced": "Reduced on 14/05/2024 by British Homesellers, National"
+    },
+    {
+        "price": "£200,000",
+        "price_qualifier": null,
+        "displayAddress": "Hugill Street, Thornton, Bradford",
+        "summary": "** STUNNING THREE-FOUR BEDROOM TERRACE ** FULLY REFURBISHED THROUGHOUT ** QUALITY FIXTURES AND FITTINGS ** SET OVER FOUR LEVELS ** This impressive family home in a backwater location in Thornton has recently undergone a full program of modernisation, include; a new roof, re-wired including new sw...",
+        "phone_number": "01274 015303",
+        "propertySubType": "Terraced",
+        "bedrooms": "4",
+        "bathrooms": "1",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 26/09/2024 by Bronte Estate Agents, Queensbury"
+    },
+    {
+        "price": "£200,000",
+        "price_qualifier": "Offers Over",
+        "displayAddress": "Burnett Rise, Queensbury, Bradford",
+        "summary": "***THREE BEDROOM FAMILY HOME*** Situated on a QUIET CUL-DE-SAC is this THREE BEDROOM end terraced home in Queensbury, BD13. The property is sat on a SUBSTANTIAL PLOT, providing a garden to front, AMPLE OFF-STREET PARKING,, a detached garage and a GENEROUS REAR GARDEN. Internally, the property bri...",
+        "phone_number": "01274 015303",
+        "propertySubType": "End of Terrace",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 31/01/2024 by Bronte Estate Agents, Queensbury"
     },
     {
         "price": "£199,995",
@@ -3038,6 +3038,18 @@
     {
         "price": "£190,000",
         "price_qualifier": null,
+        "displayAddress": "Weston Vale Road, Queensbury, Bradford",
+        "summary": "This beautifully maintained 3-bedroom home offers modern living, comfort, and practicality. The ground floor features a bright entrance hall, a well-equipped kitchen overlooking the garden, a spacious dining room, and a cozy lounge with a gas fire. Upstairs, there are two generous double bedrooms...",
+        "phone_number": "01422 413027",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "displayStatus": null,
+        "addedOrReduced": "Added on 21/10/2024 by Reloc8 Properties, West Yorkshire"
+    },
+    {
+        "price": "£190,000",
+        "price_qualifier": null,
         "displayAddress": "West Dean Close, Queensbury, Bradford",
         "summary": "Nestled in the heart of Queensbury, this three bedroom townhouse offers a bright and spacious layout, ideal for modern living. The property boasts from central heating and full double glazing throughout. The entrance leads to a lounge with plenty of natural light, a bay window, and flexible space...",
         "phone_number": "01422 413027",
@@ -3046,6 +3058,18 @@
         "bathrooms": "2",
         "displayStatus": "SOLD STC",
         "addedOrReduced": "Added on 02/12/2024 by Reloc8 Properties, West Yorkshire"
+    },
+    {
+        "price": "£190,000",
+        "price_qualifier": null,
+        "displayAddress": "Queensbury Square, Queensbury, Bradford",
+        "summary": "* DETACHED * THREE BEDROOMS * READY TO MOVE INTO * CLOSE TO AMENITIES * * MODERN KITCHEN & BATHROOM * PARKING * This individually built three bedroom detached property would make an ideal purchase for a number of buyers. Ideally located within walking distance of Queensbury Villag...",
+        "phone_number": "01274 003968",
+        "propertySubType": "Detached",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "displayStatus": null,
+        "addedOrReduced": "Reduced on 14/10/2024 by Sugdens, Queensbury"
     },
     {
         "price": "£190,000",
@@ -3058,66 +3082,6 @@
         "bathrooms": "3",
         "displayStatus": null,
         "addedOrReduced": "Added on 16/11/2024 by Davies Properties, Keighley"
-    },
-    {
-        "price": "£190,000",
-        "price_qualifier": "Offers Over",
-        "displayAddress": "Hillcrest Drive, Queensbury",
-        "summary": "Discover this stunning, fully refurbished three-bedroom terrace, thoughtfully upgraded by the current owners to the highest standards. Perfectly situated near top-rated schools, charming shops, and convenient bus stops, this home offers both style and convenience. With modern finishes and a prime...",
-        "phone_number": "01422 413027",
-        "propertySubType": "Terraced",
-        "bedrooms": "3",
-        "bathrooms": "2",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 28/08/2024 by Reloc8 Properties, West Yorkshire"
-    },
-    {
-        "price": "£190,000",
-        "price_qualifier": null,
-        "displayAddress": "Thornton Road, Queensbury",
-        "summary": "Welcome to Thornton Road, our stunning three bedroom home with outstanding views, local walks and scenery. Don't miss out on the opportunity to call this lovely property your home. Thornton Road is located on the outskirts of Queensbury & boasts incredible views which are waiting for you to enjoy",
-        "phone_number": "0113 320 6243",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "3",
-        "bathrooms": "1",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 12/06/2024 by haart, Leeds"
-    },
-    {
-        "price": "£190,000",
-        "price_qualifier": "Guide Price",
-        "displayAddress": "New Road, Denholme, Bradford, West Yorkshire, BD13",
-        "summary": "Modern, well presented END TOWN HOUSE PROPERTY situated in a pleasant recent development in the much sought after Denholme Village.",
-        "phone_number": "01274 003531",
-        "propertySubType": "End of Terrace",
-        "bedrooms": "3",
-        "bathrooms": "2",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Reduced on 22/04/2024 by Whitegates, Bradford"
-    },
-    {
-        "price": "£190,000",
-        "price_qualifier": "Offers Over",
-        "displayAddress": "Deanstones Crescent, Queensbury, Bradford",
-        "summary": "** This property is now sold subject to contract and viewings have ceased. The vendor will not consider other offers whilst conveyancing is underway. ** Located on Deanstones Crescent, Queensbury, Bradford, this delightful three-bedroom semi-detached house is a gem waiting to be discover...",
-        "phone_number": "01484 627542",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "3",
-        "bathrooms": "1",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 18/11/2024 by Peter David Properties, Brighouse"
-    },
-    {
-        "price": "£190,000",
-        "price_qualifier": null,
-        "displayAddress": "Hallowes Grove, Cullingworth, West Yorkshire, BD13",
-        "summary": "Modern semi detached bungalow having 2 bedrooms, 2 reception rooms, fitted kitchen, modern bathroom. With central heating, double glazing, gardens, drive and garage. The property is offered with no onward chain and early viewing is recommended.",
-        "phone_number": "01535 271745",
-        "propertySubType": "Semi-Detached Bungalow",
-        "bedrooms": "2",
-        "bathrooms": null,
-        "displayStatus": "UNDER OFFER",
-        "addedOrReduced": "Reduced on 24/05/2024 by Alan Slater Property Services, Bradford"
     },
     {
         "price": "£190,000",
@@ -3134,42 +3098,6 @@
     {
         "price": "£190,000",
         "price_qualifier": null,
-        "displayAddress": "Thornton Road, Thornton",
-        "summary": "** TWO BEDROOM SEMI-DETACHED BUNGALOW ** TWO RECEPTION ROOMS ** LOFT ROOM ** SUN ROOM ** GARDENS, GARAGE & DRIVE ** Whitney's are pleased to offer for sale this spacious bungalow set in an elevated position on Thornton Road in Thornton. Offering an open outlook to the front and good-sized gar...",
-        "phone_number": "01274 003573",
-        "propertySubType": "Semi-Detached Bungalow",
-        "bedrooms": "2",
-        "bathrooms": "1",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Reduced on 07/10/2024 by Whitney's, Clayton"
-    },
-    {
-        "price": "£190,000",
-        "price_qualifier": null,
-        "displayAddress": "Weston Vale Road, Queensbury, Bradford",
-        "summary": "This beautifully maintained 3-bedroom home offers modern living, comfort, and practicality. The ground floor features a bright entrance hall, a well-equipped kitchen overlooking the garden, a spacious dining room, and a cozy lounge with a gas fire. Upstairs, there are two generous double bedrooms...",
-        "phone_number": "01422 413027",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "3",
-        "bathrooms": "2",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 21/10/2024 by Reloc8 Properties, West Yorkshire"
-    },
-    {
-        "price": "£190,000",
-        "price_qualifier": null,
-        "displayAddress": "Queensbury Square, Queensbury, Bradford",
-        "summary": "* DETACHED * THREE BEDROOMS * READY TO MOVE INTO * CLOSE TO AMENITIES * * MODERN KITCHEN & BATHROOM * PARKING * This individually built three bedroom detached property would make an ideal purchase for a number of buyers. Ideally located within walking distance of Queensbury Villag...",
-        "phone_number": "01274 003968",
-        "propertySubType": "Detached",
-        "bedrooms": "3",
-        "bathrooms": "1",
-        "displayStatus": null,
-        "addedOrReduced": "Reduced on 14/10/2024 by Sugdens, Queensbury"
-    },
-    {
-        "price": "£190,000",
-        "price_qualifier": null,
         "displayAddress": "Ridgeway, Queensbury, Bradford",
         "summary": "Step into this stunning three-bedroom semi-detached property, where style meets convenience in one of the most sought-after locations. Perfectly situated near top-rated schools, quaint shops, and well-connected bus routes, this home is designed to enhance modern living. With contemporary finishes...",
         "phone_number": "01422 413027",
@@ -3180,16 +3108,76 @@
         "addedOrReduced": "Added on 30/09/2024 by Reloc8 Properties, West Yorkshire"
     },
     {
-        "price": "£189,950",
+        "price": "£190,000",
+        "price_qualifier": "Offers Over",
+        "displayAddress": "Deanstones Crescent, Queensbury, Bradford",
+        "summary": "** This property is now sold subject to contract and viewings have ceased. The vendor will not consider other offers whilst conveyancing is underway. ** Located on Deanstones Crescent, Queensbury, Bradford, this delightful three-bedroom semi-detached house is a gem waiting to be discover...",
+        "phone_number": "01484 627542",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 18/11/2024 by Peter David Properties, Brighouse"
+    },
+    {
+        "price": "£190,000",
         "price_qualifier": null,
-        "displayAddress": "Sapgate Lane, Thornton",
-        "summary": "Rare Opportunity To Purchase This Two Bedroom Semi-Detached Bungalow ideally situated in a quiet location with great views across Bradford to the rear. Benefitting from; Modern feel throughout, large gardens and ample off street parking. Viewing is essential!",
-        "phone_number": "01274 015829",
-        "propertySubType": "Detached Bungalow",
+        "displayAddress": "Thornton Road, Queensbury",
+        "summary": "Welcome to Thornton Road, our stunning three bedroom home with outstanding views, local walks and scenery. Don't miss out on the opportunity to call this lovely property your home. Thornton Road is located on the outskirts of Queensbury & boasts incredible views which are waiting for you to enjoy",
+        "phone_number": "0113 320 6243",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 12/06/2024 by haart, Leeds"
+    },
+    {
+        "price": "£190,000",
+        "price_qualifier": null,
+        "displayAddress": "Hallowes Grove, Cullingworth, West Yorkshire, BD13",
+        "summary": "Modern semi detached bungalow having 2 bedrooms, 2 reception rooms, fitted kitchen, modern bathroom. With central heating, double glazing, gardens, drive and garage. The property is offered with no onward chain and early viewing is recommended.",
+        "phone_number": "01535 271745",
+        "propertySubType": "Semi-Detached Bungalow",
+        "bedrooms": "2",
+        "bathrooms": null,
+        "displayStatus": "UNDER OFFER",
+        "addedOrReduced": "Reduced on 24/05/2024 by Alan Slater Property Services, Bradford"
+    },
+    {
+        "price": "£190,000",
+        "price_qualifier": "Offers Over",
+        "displayAddress": "Hillcrest Drive, Queensbury",
+        "summary": "Discover this stunning, fully refurbished three-bedroom terrace, thoughtfully upgraded by the current owners to the highest standards. Perfectly situated near top-rated schools, charming shops, and convenient bus stops, this home offers both style and convenience. With modern finishes and a prime...",
+        "phone_number": "01422 413027",
+        "propertySubType": "Terraced",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 28/08/2024 by Reloc8 Properties, West Yorkshire"
+    },
+    {
+        "price": "£190,000",
+        "price_qualifier": "Guide Price",
+        "displayAddress": "New Road, Denholme, Bradford, West Yorkshire, BD13",
+        "summary": "Modern, well presented END TOWN HOUSE PROPERTY situated in a pleasant recent development in the much sought after Denholme Village.",
+        "phone_number": "01274 003531",
+        "propertySubType": "End of Terrace",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Reduced on 22/04/2024 by Whitegates, Bradford"
+    },
+    {
+        "price": "£190,000",
+        "price_qualifier": null,
+        "displayAddress": "Thornton Road, Thornton",
+        "summary": "** TWO BEDROOM SEMI-DETACHED BUNGALOW ** TWO RECEPTION ROOMS ** LOFT ROOM ** SUN ROOM ** GARDENS, GARAGE & DRIVE ** Whitney's are pleased to offer for sale this spacious bungalow set in an elevated position on Thornton Road in Thornton. Offering an open outlook to the front and good-sized gar...",
+        "phone_number": "01274 003573",
+        "propertySubType": "Semi-Detached Bungalow",
         "bedrooms": "2",
         "bathrooms": "1",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 05/06/2024 by Martin & Co, Saltaire"
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Reduced on 07/10/2024 by Whitney's, Clayton"
     },
     {
         "price": "£189,950",
@@ -3216,6 +3204,18 @@
         "addedOrReduced": "Added on 04/09/2024 by Sugdens, Queensbury"
     },
     {
+        "price": "£189,950",
+        "price_qualifier": null,
+        "displayAddress": "Sapgate Lane, Thornton",
+        "summary": "Rare Opportunity To Purchase This Two Bedroom Semi-Detached Bungalow ideally situated in a quiet location with great views across Bradford to the rear. Benefitting from; Modern feel throughout, large gardens and ample off street parking. Viewing is essential!",
+        "phone_number": "01274 015829",
+        "propertySubType": "Detached Bungalow",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "displayStatus": null,
+        "addedOrReduced": "Added on 05/06/2024 by Martin & Co, Saltaire"
+    },
+    {
         "price": "£185,000",
         "price_qualifier": null,
         "displayAddress": "Ashlar Grove, Queensbury, Bradford",
@@ -3226,18 +3226,6 @@
         "bathrooms": "1",
         "displayStatus": "SOLD STC",
         "addedOrReduced": "Added on 31/10/2024 by Bronte Estate Agents, Queensbury"
-    },
-    {
-        "price": "£185,000",
-        "price_qualifier": null,
-        "displayAddress": "Thornton Road, Queensbury, Bradford",
-        "summary": "Nestled in the charming village of Queensbury, this delightful THREE BEDROOM COTTAGE on Thornton Road offers stunning RURAL VIEWS. The property has a cosy reception room, inviting DINING KITCHEN, three bedrooms & bathroom. With cottage GARDENS to the front & elevated garden to the rear. Convenie...",
-        "phone_number": "01274 015303",
-        "propertySubType": "Cottage",
-        "bedrooms": "3",
-        "bathrooms": "1",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 05/08/2024 by Bronte Estate Agents, Queensbury"
     },
     {
         "price": "£185,000",
@@ -3252,16 +3240,16 @@
         "addedOrReduced": "Added on 04/09/2024 by Redwoods Estate Agency, Halifax"
     },
     {
-        "price": "£184,950",
+        "price": "£185,000",
         "price_qualifier": null,
-        "displayAddress": "Allerton View, Thornton",
-        "summary": "* MODERN THREE STOREY SEMI * THREE BEDROOMS * MODERN KITCHEN * VIEWS * * TWO MODERN BATH/SHOWER ROOMS * POPULAR LOCATION * GARDEN * PARKING * A well presented three bedroom modern three storey semi detached offering attractive open aspect views to the rear of the property. Having a...",
-        "phone_number": "01274 003968",
-        "propertySubType": "Not Specified",
+        "displayAddress": "Thornton Road, Queensbury, Bradford",
+        "summary": "Nestled in the charming village of Queensbury, this delightful THREE BEDROOM COTTAGE on Thornton Road offers stunning RURAL VIEWS. The property has a cosy reception room, inviting DINING KITCHEN, three bedrooms & bathroom. With cottage GARDENS to the front & elevated garden to the rear. Convenie...",
+        "phone_number": "01274 015303",
+        "propertySubType": "Cottage",
         "bedrooms": "3",
-        "bathrooms": "2",
+        "bathrooms": "1",
         "displayStatus": "SOLD STC",
-        "addedOrReduced": "Reduced on 14/10/2024 by Sugdens, Queensbury"
+        "addedOrReduced": "Added on 05/08/2024 by Bronte Estate Agents, Queensbury"
     },
     {
         "price": "£184,950",
@@ -3288,40 +3276,16 @@
         "addedOrReduced": "Reduced on 19/08/2024 by Bronte Estate Agents, Queensbury"
     },
     {
-        "price": "£180,000",
-        "price_qualifier": "Guide Price*",
-        "displayAddress": "The Paddock, Cullingworth, Bradford",
-        "summary": "A chain free two bedroom bungalow, situated in a most sought after residential location, well positioned for a host of local amenities, transport links and local recreational facilities. Property is offered for sale through the Modern Method of Auction which is operated by iamsold Limited.",
-        "phone_number": "01274 003939",
-        "propertySubType": "Semi-Detached Bungalow",
-        "bedrooms": "2",
-        "bathrooms": "1",
-        "displayStatus": null,
-        "addedOrReduced": "Reduced on 10/12/2024 by Hunters, Bingley"
-    },
-    {
-        "price": "£180,000",
-        "price_qualifier": "Guide Price*",
-        "displayAddress": "415 Thornton Road, Thornton, Bradford, West Yorkshire, BD13 3JN",
-        "summary": "Guide Price: £180,000 This mixed-use property, in Thornton village, will appeal to those looking for a high yielding investment. The building comprises a ground floor retail unit and 6 x tenanted studios, spread over the four floors. The studios are let to students and the commercial u...",
-        "phone_number": "01942 368361",
-        "propertySubType": "Flat",
-        "bedrooms": null,
-        "bathrooms": null,
-        "displayStatus": null,
-        "addedOrReduced": "Reduced on 01/10/2024 by Pugh and Company, Manchester"
-    },
-    {
-        "price": "£180,000",
-        "price_qualifier": "Offers in Region of",
-        "displayAddress": "Harcourt Avenue, Thornton",
-        "summary": "Situated in the sought after, historical, village of Thornton is this three bed semi detached property offering lots of potential.",
-        "phone_number": "01274 003573",
-        "propertySubType": "Semi-Detached",
+        "price": "£184,950",
+        "price_qualifier": null,
+        "displayAddress": "Allerton View, Thornton",
+        "summary": "* MODERN THREE STOREY SEMI * THREE BEDROOMS * MODERN KITCHEN * VIEWS * * TWO MODERN BATH/SHOWER ROOMS * POPULAR LOCATION * GARDEN * PARKING * A well presented three bedroom modern three storey semi detached offering attractive open aspect views to the rear of the property. Having a...",
+        "phone_number": "01274 003968",
+        "propertySubType": "Not Specified",
         "bedrooms": "3",
-        "bathrooms": "1",
+        "bathrooms": "2",
         "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 27/11/2024 by Whitney's, Clayton"
+        "addedOrReduced": "Reduced on 14/10/2024 by Sugdens, Queensbury"
     },
     {
         "price": "£180,000",
@@ -3337,6 +3301,30 @@
     },
     {
         "price": "£180,000",
+        "price_qualifier": "Offers in Region of",
+        "displayAddress": "Harcourt Avenue, Thornton",
+        "summary": "Situated in the sought after, historical, village of Thornton is this three bed semi detached property offering lots of potential.",
+        "phone_number": "01274 003573",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 27/11/2024 by Whitney's, Clayton"
+    },
+    {
+        "price": "£180,000",
+        "price_qualifier": "Guide Price*",
+        "displayAddress": "The Paddock, Cullingworth, Bradford",
+        "summary": "A chain free two bedroom bungalow, situated in a most sought after residential location, well positioned for a host of local amenities, transport links and local recreational facilities. Property is offered for sale through the Modern Method of Auction which is operated by iamsold Limited.",
+        "phone_number": "01274 003939",
+        "propertySubType": "Semi-Detached Bungalow",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "displayStatus": null,
+        "addedOrReduced": "Reduced on 10/12/2024 by Hunters, Bingley"
+    },
+    {
+        "price": "£180,000",
         "price_qualifier": null,
         "displayAddress": "Highgate Mill Fold, Clayton Heights",
         "summary": "** MODERN END TOWNHOUSE ** SET OVER THREE FLOORS ** STUNNING OPEN VIEWS ** GARAGE, DRIVE & GARDENS ** GAS CH & UPVC DG ** This ideal family home has recently had a new kitchen fitted, a new bathroom and a new central heating boiler. With superb open views to the rear, this one is sure to ...",
@@ -3348,16 +3336,16 @@
         "addedOrReduced": "Added on 04/09/2024 by Whitney's, Clayton"
     },
     {
-        "price": "£179,950",
-        "price_qualifier": "Offers in Region of",
-        "displayAddress": "New Park Road, Queensbury, Bradford",
-        "summary": "* SEMI DETACHED * THREE BEDROOMS * STONE BUILT * CLOSE TO AMENITIES * * IDEAL FTB/YOUNG FAMILY * GARDEN * PARKING * OVERSIZED GARAGE * This three bedroom semi stone built semi detached property would make an ideal purchase for a FTB/Young/Growing Family. Within walking distance of...",
-        "phone_number": "01274 003968",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "3",
-        "bathrooms": "1",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Reduced on 05/10/2024 by Sugdens, Queensbury"
+        "price": "£180,000",
+        "price_qualifier": "Guide Price*",
+        "displayAddress": "415 Thornton Road, Thornton, Bradford, West Yorkshire, BD13 3JN",
+        "summary": "Guide Price: £180,000 This mixed-use property, in Thornton village, will appeal to those looking for a high yielding investment. The building comprises a ground floor retail unit and 6 x tenanted studios, spread over the four floors. The studios are let to students and the commercial u...",
+        "phone_number": "01942 368361",
+        "propertySubType": "Flat",
+        "bedrooms": null,
+        "bathrooms": null,
+        "displayStatus": null,
+        "addedOrReduced": "Reduced on 01/10/2024 by Pugh and Company, Manchester"
     },
     {
         "price": "£179,950",
@@ -3384,6 +3372,18 @@
         "addedOrReduced": "Added on 16/08/2024 by Dacre Son & Hartley, Bingley"
     },
     {
+        "price": "£179,950",
+        "price_qualifier": "Offers in Region of",
+        "displayAddress": "New Park Road, Queensbury, Bradford",
+        "summary": "* SEMI DETACHED * THREE BEDROOMS * STONE BUILT * CLOSE TO AMENITIES * * IDEAL FTB/YOUNG FAMILY * GARDEN * PARKING * OVERSIZED GARAGE * This three bedroom semi stone built semi detached property would make an ideal purchase for a FTB/Young/Growing Family. Within walking distance of...",
+        "phone_number": "01274 003968",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Reduced on 05/10/2024 by Sugdens, Queensbury"
+    },
+    {
         "price": "£176,000",
         "price_qualifier": null,
         "displayAddress": "Lingfield Crescent, Clayton Heights, Bradford",
@@ -3394,18 +3394,6 @@
         "bathrooms": "1",
         "displayStatus": "SOLD STC",
         "addedOrReduced": "Reduced on 05/08/2024 by Bronte Estate Agents, Queensbury"
-    },
-    {
-        "price": "£175,000",
-        "price_qualifier": null,
-        "displayAddress": "Hoyle Ing Road, Thornton, Bradford",
-        "summary": "* SEMI DETACHED * THREE BEDROOMS * MODERN KITCHEN & SHOWER ROOM * * LARGE CONSERVATORY * LANDSCAPED GARDENS * PARKING * This three bedroom semi detached house offers fantastic family sized accommodation. Benefits from both gas central heating and upvc double glazing. The a...",
-        "phone_number": "01274 003968",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "3",
-        "bathrooms": "1",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 25/10/2024 by Sugdens, Queensbury"
     },
     {
         "price": "£175,000",
@@ -3422,6 +3410,18 @@
     {
         "price": "£175,000",
         "price_qualifier": null,
+        "displayAddress": "Hoyle Ing Road, Thornton, Bradford",
+        "summary": "* SEMI DETACHED * THREE BEDROOMS * MODERN KITCHEN & SHOWER ROOM * * LARGE CONSERVATORY * LANDSCAPED GARDENS * PARKING * This three bedroom semi detached house offers fantastic family sized accommodation. Benefits from both gas central heating and upvc double glazing. The a...",
+        "phone_number": "01274 003968",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 25/10/2024 by Sugdens, Queensbury"
+    },
+    {
+        "price": "£175,000",
+        "price_qualifier": null,
         "displayAddress": "Brooklands Avenue, Thornton, Bradford, BD13",
         "summary": "SWIFT MOVE SALE - QUICKER COMPLETION: ASK FOR FURTHER INFORMATION *** GREAT PLOT POSITION ** GARDENS TO THREE SIDES *** Viewing is STRONGLY ADVISED for this family sized SEMI DETACHED property situated on the outskirks of THORNTON VILLAGE yet within close proximity of all the village amenities, p...",
         "phone_number": "01274 003296",
@@ -3430,18 +3430,6 @@
         "bathrooms": "1",
         "displayStatus": "SOLD STC",
         "addedOrReduced": "Added on 06/11/2024 by Robert Watts, Wibsey"
-    },
-    {
-        "price": "£170,000",
-        "price_qualifier": null,
-        "displayAddress": "Hazeldene, Queensbury, Bradford",
-        "summary": "* SEMI DETACHED * THREE BEDROOMS * MODERN BATHROOM * NO CHAIN * * GARDENS & GARAGE * FAMILY SIZED * Situated close to Queensbury village and available with no onward chain, is this delightful three bedroom semi detached house. Benefits from gas central heating and upvc double gla...",
-        "phone_number": "01274 003968",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "3",
-        "bathrooms": "1",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 20/11/2024 by Sugdens, Queensbury"
     },
     {
         "price": "£170,000",
@@ -3469,15 +3457,27 @@
     },
     {
         "price": "£170,000",
-        "price_qualifier": "Offers in Region of",
-        "displayAddress": "Packington Street, Bradford, West Yorkshire, BD13",
-        "summary": "WITH THE OPTION TO RENT LARGE FIELD AND GARAGE. Stunning, recently renovated throughout two bedroom cottage boasting a wealth of original features, in a countryside position.",
-        "phone_number": "01484 627440",
-        "propertySubType": "Cottage",
-        "bedrooms": "2",
+        "price_qualifier": "Guide Price",
+        "displayAddress": "Springhead Road, Thornton, Bradford, BD13",
+        "summary": "Guide Price £170,000 - £175,000 Well Proportioned THREE BEDROOM SEMI-DETACHED family home with TWO RECEPTION ROOMS and SUBSTANTIAL GARDENS. Presented to a high standard with modern fixtures & fittings. AVAILABLE WITH NO ONWARD CHAIN.",
+        "phone_number": "01274 003531",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "3",
         "bathrooms": "1",
         "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 21/10/2024 by Fastmove, Yorkshire"
+        "addedOrReduced": "Added on 23/09/2024 by Whitegates, Bradford"
+    },
+    {
+        "price": "£170,000",
+        "price_qualifier": null,
+        "displayAddress": "Hazeldene, Queensbury, Bradford",
+        "summary": "* SEMI DETACHED * THREE BEDROOMS * MODERN BATHROOM * NO CHAIN * * GARDENS & GARAGE * FAMILY SIZED * Situated close to Queensbury village and available with no onward chain, is this delightful three bedroom semi detached house. Benefits from gas central heating and upvc double gla...",
+        "phone_number": "01274 003968",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 20/11/2024 by Sugdens, Queensbury"
     },
     {
         "price": "£170,000",
@@ -3493,15 +3493,15 @@
     },
     {
         "price": "£170,000",
-        "price_qualifier": "Guide Price",
-        "displayAddress": "Springhead Road, Thornton, Bradford, BD13",
-        "summary": "Guide Price £170,000 - £175,000 Well Proportioned THREE BEDROOM SEMI-DETACHED family home with TWO RECEPTION ROOMS and SUBSTANTIAL GARDENS. Presented to a high standard with modern fixtures & fittings. AVAILABLE WITH NO ONWARD CHAIN.",
-        "phone_number": "01274 003531",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "3",
+        "price_qualifier": "Offers in Region of",
+        "displayAddress": "Packington Street, Bradford, West Yorkshire, BD13",
+        "summary": "WITH THE OPTION TO RENT LARGE FIELD AND GARAGE. Stunning, recently renovated throughout two bedroom cottage boasting a wealth of original features, in a countryside position.",
+        "phone_number": "01484 627440",
+        "propertySubType": "Cottage",
+        "bedrooms": "2",
         "bathrooms": "1",
         "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 23/09/2024 by Whitegates, Bradford"
+        "addedOrReduced": "Added on 21/10/2024 by Fastmove, Yorkshire"
     },
     {
         "price": "£169,995",
@@ -3554,18 +3554,6 @@
     {
         "price": "£165,000",
         "price_qualifier": null,
-        "displayAddress": "Longhouse Drive, Denholme, Bradford",
-        "summary": "THREE BEDROOM SEMI-DETACHED FAMILY HOME WITH GARDENS TO FRONT & REAR, OFF-STREET PARKING & DETACHED GARAGE, OFFERED TO THE MARKET WITH NO ONWARD CHAIN!",
-        "phone_number": "01274 015303",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "3",
-        "bathrooms": "1",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 21/06/2024 by Bronte Estate Agents, Queensbury"
-    },
-    {
-        "price": "£165,000",
-        "price_qualifier": null,
         "displayAddress": "Sharket Head Close, Queensbury Bradford",
         "summary": "If you are looking for your first home then this three bedroom end townhouse offers ideal accommodation. Being available for immediate occupation it is well presented and has good sized rooms, gas central heating, UPVC double glazing, new carpets and decorations, etc. Together with the property a...",
         "phone_number": "01422 412483",
@@ -3578,14 +3566,14 @@
     {
         "price": "£165,000",
         "price_qualifier": null,
-        "displayAddress": "Longhouse Drive, Denholme",
-        "summary": "* * * CALL SUGDENS TO BE THE FIRST TO VIEW * * * * * SEMI DETACHED * * THREE BEDROOMS * * CUL-DE-SAC SETTING * * * * MODERN KITCHEN BATHROOM * * CONSERVATORY * * GARDENS, GARAGE & PARKING * * This well presented three bedroom semi detached property would make an ideal purchase for ...",
-        "phone_number": "01274 003968",
+        "displayAddress": "Longhouse Drive, Denholme, Bradford",
+        "summary": "THREE BEDROOM SEMI-DETACHED FAMILY HOME WITH GARDENS TO FRONT & REAR, OFF-STREET PARKING & DETACHED GARAGE, OFFERED TO THE MARKET WITH NO ONWARD CHAIN!",
+        "phone_number": "01274 015303",
         "propertySubType": "Semi-Detached",
         "bedrooms": "3",
         "bathrooms": "1",
         "displayStatus": null,
-        "addedOrReduced": "Added on 15/11/2024 by Sugdens, Queensbury"
+        "addedOrReduced": "Added on 21/06/2024 by Bronte Estate Agents, Queensbury"
     },
     {
         "price": "£165,000",
@@ -3600,16 +3588,16 @@
         "addedOrReduced": "Added on 08/07/2024 by Whitney's, Clayton"
     },
     {
-        "price": "£160,000",
+        "price": "£165,000",
         "price_qualifier": null,
-        "displayAddress": "West Lane, Thornton, Bradford",
-        "summary": "Welcome to this charming semi-detached house located on West Lane in Thornton village This property boasts three bedrooms, making it perfect for a growing family or those in need of extra space. The absence of an upward chain means a smooth and hassle-free transition for the new owners,...",
-        "phone_number": "01422 366948",
+        "displayAddress": "Longhouse Drive, Denholme",
+        "summary": "* * * CALL SUGDENS TO BE THE FIRST TO VIEW * * * * * SEMI DETACHED * * THREE BEDROOMS * * CUL-DE-SAC SETTING * * * * MODERN KITCHEN BATHROOM * * CONSERVATORY * * GARDENS, GARAGE & PARKING * * This well presented three bedroom semi detached property would make an ideal purchase for ...",
+        "phone_number": "01274 003968",
         "propertySubType": "Semi-Detached",
         "bedrooms": "3",
-        "bathrooms": null,
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 14/08/2024 by Peter David Properties, Halifax"
+        "bathrooms": "1",
+        "displayStatus": null,
+        "addedOrReduced": "Added on 15/11/2024 by Sugdens, Queensbury"
     },
     {
         "price": "£160,000",
@@ -3646,6 +3634,18 @@
         "bathrooms": "1",
         "displayStatus": "SOLD STC",
         "addedOrReduced": "Added on 01/11/2024 by Bronte Estate Agents, Queensbury"
+    },
+    {
+        "price": "£160,000",
+        "price_qualifier": null,
+        "displayAddress": "West Lane, Thornton, Bradford",
+        "summary": "Welcome to this charming semi-detached house located on West Lane in Thornton village This property boasts three bedrooms, making it perfect for a growing family or those in need of extra space. The absence of an upward chain means a smooth and hassle-free transition for the new owners,...",
+        "phone_number": "01422 366948",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "3",
+        "bathrooms": null,
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 14/08/2024 by Peter David Properties, Halifax"
     },
     {
         "price": "£160,000",
@@ -3745,18 +3745,6 @@
     },
     {
         "price": "£140,000",
-        "price_qualifier": "Offers in Region of",
-        "displayAddress": "Brunswick Street, Bradford, BD13",
-        "summary": "***INVESTORS/LANDLORDS***This 2 bedroom terraced house has a tenant in situ property. The ideal purchase for any landlord or investor.",
-        "phone_number": "024 7542 9233",
-        "propertySubType": "Terraced",
-        "bedrooms": "2",
-        "bathrooms": "1",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 19/12/2024 by Yopa, East Midlands & Yorkshire"
-    },
-    {
-        "price": "£140,000",
         "price_qualifier": "Guide Price",
         "displayAddress": "Ford, Queensbury, Bradford",
         "summary": "Stunning character cottage set in an idyllic Queensbury back water location. Beautifully presented and boasting many original features throughout, including mullioned windows.",
@@ -3766,6 +3754,18 @@
         "bathrooms": "1",
         "displayStatus": "SOLD STC",
         "addedOrReduced": "Added on 11/09/2024 by William H. Brown, Wibsey"
+    },
+    {
+        "price": "£140,000",
+        "price_qualifier": "Offers in Region of",
+        "displayAddress": "Brunswick Street, Bradford, BD13",
+        "summary": "***INVESTORS/LANDLORDS***This 2 bedroom terraced house has a tenant in situ property. The ideal purchase for any landlord or investor.",
+        "phone_number": "024 7542 9233",
+        "propertySubType": "Terraced",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "displayStatus": null,
+        "addedOrReduced": "Added on 19/12/2024 by Yopa, East Midlands & Yorkshire"
     },
     {
         "price": "£135,000",
@@ -3817,15 +3817,15 @@
     },
     {
         "price": "£130,000",
-        "price_qualifier": "Offers Over",
-        "displayAddress": "Myrtle Grove, Queensbury, BRADFORD",
-        "summary": "William H Brown Estate Agents are pleased to bring to the market this two bedroom end-terrace bungalow situated in the Queensbury location which could be of interest to the first time buyer marketed at a price of Offers Over £130,000. Recently renovated with a new kitchen & bathroom benefitting from",
-        "phone_number": "01422 413767",
-        "propertySubType": "Semi-Detached Bungalow",
-        "bedrooms": "2",
-        "bathrooms": "1",
+        "price_qualifier": null,
+        "displayAddress": "Alexandra Street, Queensbury, Bradford",
+        "summary": "**PUBLIC NOTICE** Sugdens Estates are now in receipt of an offer for the sum of £130,000 for 8 Alexandra Street, BD13 2EH. Anyone wishing to place an offer on this property should contact Sugdens Estates, High Street, Bradford, BD13 2 PA- tel before exchange of contracts.** * M...",
+        "phone_number": "01274 003968",
+        "propertySubType": "Town House",
+        "bedrooms": "3",
+        "bathrooms": "2",
         "displayStatus": null,
-        "addedOrReduced": "Added on 05/12/2024 by William H. Brown, Halifax"
+        "addedOrReduced": "Added on 01/10/2024 by Sugdens, Queensbury"
     },
     {
         "price": "£130,000",
@@ -3841,15 +3841,15 @@
     },
     {
         "price": "£130,000",
-        "price_qualifier": null,
-        "displayAddress": "Alexandra Street, Queensbury, Bradford",
-        "summary": "**PUBLIC NOTICE** Sugdens Estates are now in receipt of an offer for the sum of £130,000 for 8 Alexandra Street, BD13 2EH. Anyone wishing to place an offer on this property should contact Sugdens Estates, High Street, Bradford, BD13 2 PA- tel before exchange of contracts.** * M...",
-        "phone_number": "01274 003968",
-        "propertySubType": "Town House",
-        "bedrooms": "3",
-        "bathrooms": "2",
+        "price_qualifier": "Offers Over",
+        "displayAddress": "Myrtle Grove, Queensbury, BRADFORD",
+        "summary": "William H Brown Estate Agents are pleased to bring to the market this two bedroom end-terrace bungalow situated in the Queensbury location which could be of interest to the first time buyer marketed at a price of Offers Over £130,000. Recently renovated with a new kitchen & bathroom benefitting from",
+        "phone_number": "01422 413767",
+        "propertySubType": "Semi-Detached Bungalow",
+        "bedrooms": "2",
+        "bathrooms": "1",
         "displayStatus": null,
-        "addedOrReduced": "Added on 01/10/2024 by Sugdens, Queensbury"
+        "addedOrReduced": "Added on 05/12/2024 by William H. Brown, Halifax"
     },
     {
         "price": "£129,950",
@@ -3877,15 +3877,15 @@
     },
     {
         "price": "£125,000",
-        "price_qualifier": null,
-        "displayAddress": "Fountain Street, Thornton",
-        "summary": "* * END COTTAGE * * THREE BEDROOMS * * NO CHAIN * * MODERNISED & UPDATED * * * * HEART OF THORNTON VILLAGE * * GREAT STARTER HOME OR INVESTMENT * * NO GARDEN * * Available with vacant possession is this delightful three bedroom stone built cottage. Situated in the heart of Thornton...",
-        "phone_number": "01274 003968",
-        "propertySubType": "Semi-Detached",
+        "price_qualifier": "Guide Price*",
+        "displayAddress": "Chapel Lane, Queensbury, Bradford, BD13 2QA",
+        "summary": "FOR SALE BY MODERN METHOD OF AUCTION WITH ADVANCED PROPERTY AUCTION *** STARTING BIDS £125,000 *** FEES APPLY *** No Onward Chain *** Plenty Of Potential *** Sought After Location *** Three Bedrooms *** Potential To Extend STPP *** In Need Of Modernization. Three-bedroom detached bungal...",
+        "phone_number": "01274 015599",
+        "propertySubType": "Detached Bungalow",
         "bedrooms": "3",
         "bathrooms": "1",
         "displayStatus": "SOLD STC",
-        "addedOrReduced": "Reduced on 14/11/2024 by Sugdens, Queensbury"
+        "addedOrReduced": "Added on 21/10/2024 by WW Estates, Wibsey"
     },
     {
         "price": "£125,000",
@@ -3902,18 +3902,6 @@
     {
         "price": "£125,000",
         "price_qualifier": "Guide Price*",
-        "displayAddress": "Chapel Lane, Queensbury, Bradford, BD13 2QA",
-        "summary": "FOR SALE BY MODERN METHOD OF AUCTION WITH ADVANCED PROPERTY AUCTION *** STARTING BIDS £125,000 *** FEES APPLY *** No Onward Chain *** Plenty Of Potential *** Sought After Location *** Three Bedrooms *** Potential To Extend STPP *** In Need Of Modernization. Three-bedroom detached bungal...",
-        "phone_number": "01274 015599",
-        "propertySubType": "Detached Bungalow",
-        "bedrooms": "3",
-        "bathrooms": "1",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 21/10/2024 by WW Estates, Wibsey"
-    },
-    {
-        "price": "£125,000",
-        "price_qualifier": "Guide Price*",
         "displayAddress": "Thornton Road, Thornton",
         "summary": "FOR SALE BY THE MODERN METHOD OF AUCTION WITH ADVANCED PROPERTY AUCTIONS…..STARTING BID £125,000 PLUS RESERVATION FEE ** SUBSTANTIAL COMMERCIAL PROPERTY ** THORNTON VILLAGE LOCATION ** GREAT POTENTIAL ** This large terrace property currently comprises of a vacant ground floor retail sp...",
         "phone_number": "01274 003573",
@@ -3922,6 +3910,18 @@
         "bathrooms": "2",
         "displayStatus": "SOLD STC",
         "addedOrReduced": "Reduced on 25/06/2024 by Whitney's, Clayton"
+    },
+    {
+        "price": "£125,000",
+        "price_qualifier": null,
+        "displayAddress": "Fountain Street, Thornton",
+        "summary": "* * END COTTAGE * * THREE BEDROOMS * * NO CHAIN * * MODERNISED & UPDATED * * * * HEART OF THORNTON VILLAGE * * GREAT STARTER HOME OR INVESTMENT * * NO GARDEN * * Available with vacant possession is this delightful three bedroom stone built cottage. Situated in the heart of Thornton...",
+        "phone_number": "01274 003968",
+        "propertySubType": "Semi-Detached",
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Reduced on 14/11/2024 by Sugdens, Queensbury"
     },
     {
         "price": "£124,995",
@@ -3973,6 +3973,18 @@
     },
     {
         "price": "£115,000",
+        "price_qualifier": "Offers in Excess of",
+        "displayAddress": "Spring Holes Lane, Thornton, Bradford, BD13",
+        "summary": "A SPACIOUS house in Bradford, perfect for FIRST TIME BUYERS and CHAIN FREE. Call to enquire! Bettermove are proud to present this 2 bedroom terraced house in Bradford available with no forward chain.The property benefits from double glazing, gas central heating throughout.",
+        "phone_number": "020 3834 8696",
+        "propertySubType": "End of Terrace",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 20/11/2024 by Bettermove, Nationwide"
+    },
+    {
+        "price": "£115,000",
         "price_qualifier": null,
         "displayAddress": "Thornton Road, Thornton",
         "summary": "** VERY WELL PRESENTED THROUGHOUT** ** SPACIOUS ONE BED MID TERRACE ** Ideal for first time buyer or Investor. This Grade II listed one bed property is extremely spacious and is set out over three floors. Ground floor W/C. In the heart of Thornton village, close to all it's amenities and transpor...",
@@ -3998,30 +4010,6 @@
     {
         "price": "£115,000",
         "price_qualifier": null,
-        "displayAddress": "Scarlet Heights, Queensbury, Bradford, West Yorkshire, BD13",
-        "summary": "Are you looking for your very First Home or Investment Property? Then this Charming 2 Bedroom Terrace Home could be just perfect for you. It is ideally located on the outskirts of Queensbury Village, within easy reach of excellent, local amenities, schools and excellent transport links t...",
-        "phone_number": "03304 700193",
-        "propertySubType": "Terraced",
-        "bedrooms": "2",
-        "bathrooms": "1",
-        "displayStatus": null,
-        "addedOrReduced": "Reduced on 27/11/2024 by EweMove, Covering Yorkshire"
-    },
-    {
-        "price": "£115,000",
-        "price_qualifier": "Offers in Excess of",
-        "displayAddress": "Spring Holes Lane, Thornton, Bradford, BD13",
-        "summary": "A SPACIOUS house in Bradford, perfect for FIRST TIME BUYERS and CHAIN FREE. Call to enquire! Bettermove are proud to present this 2 bedroom terraced house in Bradford available with no forward chain.The property benefits from double glazing, gas central heating throughout.",
-        "phone_number": "020 3834 8696",
-        "propertySubType": "End of Terrace",
-        "bedrooms": "2",
-        "bathrooms": "1",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 20/11/2024 by Bettermove, Nationwide"
-    },
-    {
-        "price": "£115,000",
-        "price_qualifier": null,
         "displayAddress": "Campbell Street, Queensbury, Bradford, West Yorkshire, BD13",
         "summary": "Attention Investors!!! Are you looking for your next investment property? Currently available with sitting tenants is this lovely home ideally located on the outskirts of Queensbury Village, within easy reach of excellent, local amenities and schools virtually on your doorstep. Come and ...",
         "phone_number": "03304 700193",
@@ -4030,6 +4018,18 @@
         "bathrooms": "1",
         "displayStatus": "SOLD STC",
         "addedOrReduced": "Added on 31/07/2024 by EweMove, Covering Yorkshire"
+    },
+    {
+        "price": "£115,000",
+        "price_qualifier": null,
+        "displayAddress": "Scarlet Heights, Queensbury, Bradford, West Yorkshire, BD13",
+        "summary": "Are you looking for your very First Home or Investment Property? Then this Charming 2 Bedroom Terrace Home could be just perfect for you. It is ideally located on the outskirts of Queensbury Village, within easy reach of excellent, local amenities, schools and excellent transport links t...",
+        "phone_number": "03304 700193",
+        "propertySubType": "Terraced",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "displayStatus": null,
+        "addedOrReduced": "Reduced on 27/11/2024 by EweMove, Covering Yorkshire"
     },
     {
         "price": "£115,000",
@@ -4046,14 +4046,26 @@
     {
         "price": "£110,000",
         "price_qualifier": null,
-        "displayAddress": "Main Road, Denholme, Bradford",
-        "summary": "* TERRACE * TWO BEDROOMS * MODERNISED * MODERN KITCHEN & SHOWER ROOM * * IDEAL STARTER HOME * CLOSE TO AMENITIES * OVERLOOKS FIELDS * Tucked away yet overlooking fields is this two bedroom terrace property. Having been modernised by the present owners to offer ready to move into ...",
-        "phone_number": "01274 003968",
+        "displayAddress": "Chapel Street, Queensbury, Bradford",
+        "summary": "A desirable two-bedroom home full of character and charm. Situated in the heart of Queensbury Village all within walking distance to local schools, shops and other amenities.",
+        "phone_number": "01422 413027",
+        "propertySubType": "Terraced",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "displayStatus": null,
+        "addedOrReduced": "Reduced on 07/10/2024 by Reloc8 Properties, West Yorkshire"
+    },
+    {
+        "price": "£110,000",
+        "price_qualifier": "Offers in Region of",
+        "displayAddress": "High Street, Thornton",
+        "summary": "Whitney's are pleased to offer this two bed end terrace property with no chain! Situated in the sought after Thornton Village, this property is the perfect blank canvas for a first time buyer!",
+        "phone_number": "01274 003573",
         "propertySubType": "End of Terrace",
         "bedrooms": "2",
         "bathrooms": "1",
         "displayStatus": null,
-        "addedOrReduced": "Reduced on 30/10/2024 by Sugdens, Queensbury"
+        "addedOrReduced": "Added on 18/11/2024 by Whitney's, Clayton"
     },
     {
         "price": "£110,000",
@@ -4069,18 +4081,6 @@
     },
     {
         "price": "£110,000",
-        "price_qualifier": null,
-        "displayAddress": "Chapel Street, Queensbury, Bradford",
-        "summary": "A desirable two-bedroom home full of character and charm. Situated in the heart of Queensbury Village all within walking distance to local schools, shops and other amenities.",
-        "phone_number": "01422 413027",
-        "propertySubType": "Terraced",
-        "bedrooms": "2",
-        "bathrooms": "1",
-        "displayStatus": null,
-        "addedOrReduced": "Reduced on 07/10/2024 by Reloc8 Properties, West Yorkshire"
-    },
-    {
-        "price": "£110,000",
         "price_qualifier": "Guide Price*",
         "displayAddress": "Parkside Terrace, Cullingworth, Bradford",
         "summary": "Set within the charming village of Cullingworth, This two double bedroom mid terraced property, boasting two reception room and a modern Kitchen on the ground floor, while the first floor hosts Two Double Bedrooms, a separate WC, and a contemporary Bathroom. Front & rear gardens. Viewings advised.",
@@ -4093,15 +4093,15 @@
     },
     {
         "price": "£110,000",
-        "price_qualifier": "Offers in Region of",
-        "displayAddress": "High Street, Thornton",
-        "summary": "Whitney's are pleased to offer this two bed end terrace property with no chain! Situated in the sought after Thornton Village, this property is the perfect blank canvas for a first time buyer!",
-        "phone_number": "01274 003573",
+        "price_qualifier": null,
+        "displayAddress": "Main Road, Denholme, Bradford",
+        "summary": "* TERRACE * TWO BEDROOMS * MODERNISED * MODERN KITCHEN & SHOWER ROOM * * IDEAL STARTER HOME * CLOSE TO AMENITIES * OVERLOOKS FIELDS * Tucked away yet overlooking fields is this two bedroom terrace property. Having been modernised by the present owners to offer ready to move into ...",
+        "phone_number": "01274 003968",
         "propertySubType": "End of Terrace",
         "bedrooms": "2",
         "bathrooms": "1",
         "displayStatus": null,
-        "addedOrReduced": "Added on 18/11/2024 by Whitney's, Clayton"
+        "addedOrReduced": "Reduced on 30/10/2024 by Sugdens, Queensbury"
     },
     {
         "price": "£109,950",
@@ -4114,6 +4114,18 @@
         "bathrooms": "1",
         "displayStatus": null,
         "addedOrReduced": "Reduced on 19/11/2024 by Whitney's, Clayton"
+    },
+    {
+        "price": "£105,000",
+        "price_qualifier": "Offers Over",
+        "displayAddress": "George Street, Thornton, Bradford",
+        "summary": "** TWO BEDROOM CORNER TERRACE ** SET ACROSS THREE FLOORS ** CLOSE TO LOCAL AMENITIES ** GOOD-SIZED GARDEN ** This two bedroom terrace property in Thornton enjoys gas central heating, UPVC double glazing and has village amenities within a minutes walk! To the ground floor is an open-plan lounge & ...",
+        "phone_number": "01274 015303",
+        "propertySubType": "End of Terrace",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "displayStatus": null,
+        "addedOrReduced": "Added on 10/09/2024 by Bronte Estate Agents, Queensbury"
     },
     {
         "price": "£105,000",
@@ -4138,30 +4150,6 @@
         "bathrooms": null,
         "displayStatus": "SOLD STC",
         "addedOrReduced": "Reduced on 11/10/2024 by Whitney's, Clayton"
-    },
-    {
-        "price": "£105,000",
-        "price_qualifier": "Offers Over",
-        "displayAddress": "George Street, Thornton, Bradford",
-        "summary": "** TWO BEDROOM CORNER TERRACE ** SET ACROSS THREE FLOORS ** CLOSE TO LOCAL AMENITIES ** GOOD-SIZED GARDEN ** This two bedroom terrace property in Thornton enjoys gas central heating, UPVC double glazing and has village amenities within a minutes walk! To the ground floor is an open-plan lounge & ...",
-        "phone_number": "01274 015303",
-        "propertySubType": "End of Terrace",
-        "bedrooms": "2",
-        "bathrooms": "1",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 10/09/2024 by Bronte Estate Agents, Queensbury"
-    },
-    {
-        "price": "£100,000",
-        "price_qualifier": "Guide Price*",
-        "displayAddress": "School Ridge, Thornton, Bradford",
-        "summary": "** FOR SALE BY MODERN METHOD OF AUCTION ** STARTING BID £100,000 ** GRADE II LISTED THROUGH BY LIGHT MID-TERRACE HOME ** Offered to the market with NO ONWARD CHAIN is this TWO BEDROOM, GRADE II LISTED house, situated just off Upper Heights Lane, Thornton, BD13. With an ENVIABLE SEMI-RURAL positio...",
-        "phone_number": "01274 015303",
-        "propertySubType": "Terraced",
-        "bedrooms": "2",
-        "bathrooms": "1",
-        "displayStatus": null,
-        "addedOrReduced": "Reduced on 02/12/2024 by Bronte Estate Agents, Queensbury"
     },
     {
         "price": "£100,000",
@@ -4190,18 +4178,6 @@
     {
         "price": "£100,000",
         "price_qualifier": null,
-        "displayAddress": "Dole Street, Bradford, West Yorkshire, BD13",
-        "summary": "Recently refurbished 2 bed, semi-detached property, tenanted, rental income £550 pcm",
-        "phone_number": "0113 519 9151",
-        "propertySubType": "Semi-Detached",
-        "bedrooms": "2",
-        "bathrooms": "1",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 26/07/2024 by Aspire Properties, West Yorkshire"
-    },
-    {
-        "price": "£100,000",
-        "price_qualifier": null,
         "displayAddress": "Thornton Road, Thornton, Bradford",
         "summary": "** COTTAGE STYLE MID-TERRACE PROPERTY ** SET ACROSS THREE FLOORS ** THORNTON VILLAGE LOCATION ** This deceptively spacious property offers a large 19' living room and a modern 18' dining kitchen. Enjoying gas central heating, UPVC double glazing and a very convenient position with bus routes on t...",
         "phone_number": "01274 015303",
@@ -4210,6 +4186,18 @@
         "bathrooms": "1",
         "displayStatus": null,
         "addedOrReduced": "Added on 29/11/2024 by Bronte Estate Agents, Queensbury"
+    },
+    {
+        "price": "£100,000",
+        "price_qualifier": "Guide Price*",
+        "displayAddress": "School Ridge, Thornton, Bradford",
+        "summary": "** FOR SALE BY MODERN METHOD OF AUCTION ** STARTING BID £100,000 ** GRADE II LISTED THROUGH BY LIGHT MID-TERRACE HOME ** Offered to the market with NO ONWARD CHAIN is this TWO BEDROOM, GRADE II LISTED house, situated just off Upper Heights Lane, Thornton, BD13. With an ENVIABLE SEMI-RURAL positio...",
+        "phone_number": "01274 015303",
+        "propertySubType": "Terraced",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "displayStatus": null,
+        "addedOrReduced": "Reduced on 02/12/2024 by Bronte Estate Agents, Queensbury"
     },
     {
         "price": "£100,000",
@@ -4224,16 +4212,16 @@
         "addedOrReduced": "Added on 21/11/2024 by Sugdens, Queensbury"
     },
     {
-        "price": "£99,950",
+        "price": "£100,000",
         "price_qualifier": null,
-        "displayAddress": "Commercial Street, Queensbury, Bradford",
-        "summary": "* THROUGH-BY-LIGHT TERRACE * TWO BEDROOMS * IDEAL FTB * * CLOSE TO AMENITIES * OPEN PLAN LOUNGE/KITCHEN * This two bedroom through-by-light terrace property would make an ideal purchase for a FTB/Investor! Benefits from gas central heating, double glazing and a shower room. The...",
-        "phone_number": "01274 003968",
-        "propertySubType": "Terraced",
+        "displayAddress": "Dole Street, Bradford, West Yorkshire, BD13",
+        "summary": "Recently refurbished 2 bed, semi-detached property, tenanted, rental income £550 pcm",
+        "phone_number": "0113 519 9151",
+        "propertySubType": "Semi-Detached",
         "bedrooms": "2",
         "bathrooms": "1",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 06/12/2024 by Sugdens, Queensbury"
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 26/07/2024 by Aspire Properties, West Yorkshire"
     },
     {
         "price": "£99,950",
@@ -4248,16 +4236,16 @@
         "addedOrReduced": "Added on 26/06/2024 by Sugdens, Queensbury"
     },
     {
-        "price": "£95,000",
+        "price": "£99,950",
         "price_qualifier": null,
-        "displayAddress": "Main Road, Bradford, West Yorkshire, BD13",
-        "summary": "This stone built terrace cottage has entrance vestibule, lounge, kitchen, 2 bedrooms and bathroom, with central heating, double glazing, and garden to the front. The property is situated close to local amenities and within easy access of major road and rail networks.",
-        "phone_number": "01535 271745",
-        "propertySubType": "Cottage",
+        "displayAddress": "Commercial Street, Queensbury, Bradford",
+        "summary": "* THROUGH-BY-LIGHT TERRACE * TWO BEDROOMS * IDEAL FTB * * CLOSE TO AMENITIES * OPEN PLAN LOUNGE/KITCHEN * This two bedroom through-by-light terrace property would make an ideal purchase for a FTB/Investor! Benefits from gas central heating, double glazing and a shower room. The...",
+        "phone_number": "01274 003968",
+        "propertySubType": "Terraced",
         "bedrooms": "2",
-        "bathrooms": null,
+        "bathrooms": "1",
         "displayStatus": null,
-        "addedOrReduced": "Added on 19/11/2024 by Alan Slater Property Services, Bradford"
+        "addedOrReduced": "Added on 06/12/2024 by Sugdens, Queensbury"
     },
     {
         "price": "£95,000",
@@ -4270,6 +4258,18 @@
         "bathrooms": "1",
         "displayStatus": "NEW HOME",
         "addedOrReduced": "Added on 12/12/2024 by Connect Housing Association Ltd"
+    },
+    {
+        "price": "£95,000",
+        "price_qualifier": null,
+        "displayAddress": "Main Road, Bradford, West Yorkshire, BD13",
+        "summary": "This stone built terrace cottage has entrance vestibule, lounge, kitchen, 2 bedrooms and bathroom, with central heating, double glazing, and garden to the front. The property is situated close to local amenities and within easy access of major road and rail networks.",
+        "phone_number": "01535 271745",
+        "propertySubType": "Cottage",
+        "bedrooms": "2",
+        "bathrooms": null,
+        "displayStatus": null,
+        "addedOrReduced": "Added on 19/11/2024 by Alan Slater Property Services, Bradford"
     },
     {
         "price": "£95,000",
@@ -4369,18 +4369,6 @@
     },
     {
         "price": "£82,500",
-        "price_qualifier": null,
-        "displayAddress": "Henry Street, Thornton",
-        "summary": "** ONE BEDROOM MID-TERRACE ** BACK-TO-BACK ** GOOD CONDITION ** VILLAGE LOCATION ** This ideal starter home or landlord investment in Thornton is sure to be popular. Village amenities such as schools, bus routes, shops, cafe's, hairdressers etc, are just a few minutes walk away. This well prese...",
-        "phone_number": "01274 015303",
-        "propertySubType": "Terraced",
-        "bedrooms": "1",
-        "bathrooms": "1",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Added on 13/11/2024 by Bronte Estate Agents, Queensbury"
-    },
-    {
-        "price": "£82,500",
         "price_qualifier": "Offers in Region of",
         "displayAddress": "Highgate Road, Bradford, West Yorkshire, BD13",
         "summary": "***RENT INCREASED TO £500/MONTH*** | Buy to Let Property | 1 Bedroom Terraced Property | 1 Bathroom | Lounge and Kitchen | Easy Access to Local Amenities",
@@ -4394,6 +4382,18 @@
     {
         "price": "£82,500",
         "price_qualifier": null,
+        "displayAddress": "Henry Street, Thornton",
+        "summary": "** ONE BEDROOM MID-TERRACE ** BACK-TO-BACK ** GOOD CONDITION ** VILLAGE LOCATION ** This ideal starter home or landlord investment in Thornton is sure to be popular. Village amenities such as schools, bus routes, shops, cafe's, hairdressers etc, are just a few minutes walk away. This well prese...",
+        "phone_number": "01274 015303",
+        "propertySubType": "Terraced",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Added on 13/11/2024 by Bronte Estate Agents, Queensbury"
+    },
+    {
+        "price": "£82,500",
+        "price_qualifier": null,
         "displayAddress": "Old Road, Denholme, Bradford",
         "summary": "** TWO BEDROOM COTTAGE ** END TERRACE ** CHARACTER FEATURES ** BACKWATER LOCATION ** PLEASANT ASPECT TO THE REAR ** Although some modernisation is required, this cottage property offers great potential and a pleasant location with views over a field to the rear. Gas central heating, modern kitche...",
         "phone_number": "01274 015303",
@@ -4402,30 +4402,6 @@
         "bathrooms": "1",
         "displayStatus": "SOLD STC",
         "addedOrReduced": "Reduced on 07/10/2024 by Bronte Estate Agents, Queensbury"
-    },
-    {
-        "price": "£80,000",
-        "price_qualifier": "Offers in Excess of",
-        "displayAddress": "Henry Street, Thornton, Bradford",
-        "summary": "An investment opportunity has arisen to purchase this stone built, back to back, mid terraced property in the popular residential area of Thornton. Boasting many lovely period features such as high ceilings, ornate coving, stain glass windows, and a small keeping cellar. The accommodation benefit...",
-        "phone_number": "01422 412483",
-        "propertySubType": "Terraced",
-        "bedrooms": "2",
-        "bathrooms": "1",
-        "displayStatus": "SOLD STC",
-        "addedOrReduced": "Reduced on 12/09/2024 by WS Residential, Brighouse"
-    },
-    {
-        "price": "£80,000",
-        "price_qualifier": "Offers Over",
-        "displayAddress": "York Street, Queensbury, Bradford",
-        "summary": "ONE BEDROOM MID-TERRACE BACK TO BACK, WELL-PRESENTED & OFFERED TO THE MARKET WITH NO ONWARD CHAIN!",
-        "phone_number": "01274 015303",
-        "propertySubType": "Terraced",
-        "bedrooms": "1",
-        "bathrooms": "1",
-        "displayStatus": null,
-        "addedOrReduced": "Reduced on 19/12/2024 by Bronte Estate Agents, Queensbury"
     },
     {
         "price": "£80,000",
@@ -4450,6 +4426,30 @@
         "bathrooms": null,
         "displayStatus": null,
         "addedOrReduced": "Added on 28/10/2024 by Robert Watts, Wibsey"
+    },
+    {
+        "price": "£80,000",
+        "price_qualifier": "Offers Over",
+        "displayAddress": "York Street, Queensbury, Bradford",
+        "summary": "ONE BEDROOM MID-TERRACE BACK TO BACK, WELL-PRESENTED & OFFERED TO THE MARKET WITH NO ONWARD CHAIN!",
+        "phone_number": "01274 015303",
+        "propertySubType": "Terraced",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "displayStatus": null,
+        "addedOrReduced": "Reduced on 19/12/2024 by Bronte Estate Agents, Queensbury"
+    },
+    {
+        "price": "£80,000",
+        "price_qualifier": "Offers in Excess of",
+        "displayAddress": "Henry Street, Thornton, Bradford",
+        "summary": "An investment opportunity has arisen to purchase this stone built, back to back, mid terraced property in the popular residential area of Thornton. Boasting many lovely period features such as high ceilings, ornate coving, stain glass windows, and a small keeping cellar. The accommodation benefit...",
+        "phone_number": "01422 412483",
+        "propertySubType": "Terraced",
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "displayStatus": "SOLD STC",
+        "addedOrReduced": "Reduced on 12/09/2024 by WS Residential, Brighouse"
     },
     {
         "price": "£79,950",
@@ -4502,18 +4502,6 @@
     {
         "price": "£74,950",
         "price_qualifier": null,
-        "displayAddress": "Crossley Street, Queensbury, Bradford",
-        "summary": "** MID TERRACE ** ONE BEDROOM ** MODERN KITCHEN ** IDEAL FTB/INVESTOR ** This one bedroom terrace property would make an ideal purchase for a number of buyers. Situated on the outskirts of Queensbury Village which boasts, amenities, shops and bus routes to both Halifax and Bradford. ...",
-        "phone_number": "01274 003968",
-        "propertySubType": "Terraced",
-        "bedrooms": "1",
-        "bathrooms": "1",
-        "displayStatus": null,
-        "addedOrReduced": "Added on 18/12/2024 by Sugdens, Queensbury"
-    },
-    {
-        "price": "£74,950",
-        "price_qualifier": null,
         "displayAddress": "High Street Place, Queensbury",
         "summary": "* * * ATTENTION INVESTORS/FTBs!!! * * * * TERRACE * TWO BEDROOMS * CLOSE TO AMENITIES * Situated in the heart of Queensbury Village and within walking distance of amenities, shops and local schools, is this two bedroom terrace property. Benefits from gas central heating and double...",
         "phone_number": "01274 003968",
@@ -4522,6 +4510,18 @@
         "bathrooms": "1",
         "displayStatus": "SOLD STC",
         "addedOrReduced": "Added on 16/12/2024 by Sugdens, Queensbury"
+    },
+    {
+        "price": "£74,950",
+        "price_qualifier": null,
+        "displayAddress": "Crossley Street, Queensbury, Bradford",
+        "summary": "** MID TERRACE ** ONE BEDROOM ** MODERN KITCHEN ** IDEAL FTB/INVESTOR ** This one bedroom terrace property would make an ideal purchase for a number of buyers. Situated on the outskirts of Queensbury Village which boasts, amenities, shops and bus routes to both Halifax and Bradford. ...",
+        "phone_number": "01274 003968",
+        "propertySubType": "Terraced",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "displayStatus": null,
+        "addedOrReduced": "Added on 18/12/2024 by Sugdens, Queensbury"
     },
     {
         "price": "£70,000",
@@ -4550,18 +4550,6 @@
     {
         "price": "£60,000",
         "price_qualifier": "Guide Price*",
-        "displayAddress": "New Street, Denholme, Bradford, West Yorkshire, BD13 4AE",
-        "summary": "We welcome to the market this two bedroom terraced property for sale. Within walking distance to the local school and amenities, this property would ideally suit a couple/growing family or investor looking to purchase in the area. The property briefly comprises of a spacious open plan kitc...",
-        "phone_number": "0191 625 0242",
-        "propertySubType": "Terraced",
-        "bedrooms": "2",
-        "bathrooms": "1",
-        "displayStatus": null,
-        "addedOrReduced": "Reduced on 24/06/2024 by Pattinson Estate Agents, Auction"
-    },
-    {
-        "price": "£60,000",
-        "price_qualifier": "Guide Price*",
         "displayAddress": "Victoria Street, Queensbury",
         "summary": "ONE BEDROOM END TERRACED BACK TO BACK SOLD WITH NO ONWARD CHAIN IN THE HEART OF QUEENSBURY!",
         "phone_number": "01274 015303",
@@ -4572,16 +4560,16 @@
         "addedOrReduced": "Reduced on 01/08/2024 by Bronte Estate Agents, Queensbury"
     },
     {
-        "price": "£50,000",
+        "price": "£60,000",
         "price_qualifier": "Guide Price*",
-        "displayAddress": "Napier Street, Queensbury",
-        "summary": "** FOR SALE BY AUCTION ** Starting bid £50,000 ** ONE BEDROOM END BACK TO BACK TERRACE WITH ADDITIONAL ATTIC ROOM. NO ONWARD CHAIN, SITUATED IN THE HEART OF QUEENSBURY, BD13, IDEAL FOR A BUY TO LET INVESTMENT!",
-        "phone_number": "01274 015303",
-        "propertySubType": "End of Terrace",
-        "bedrooms": "1",
+        "displayAddress": "New Street, Denholme, Bradford, West Yorkshire, BD13 4AE",
+        "summary": "We welcome to the market this two bedroom terraced property for sale. Within walking distance to the local school and amenities, this property would ideally suit a couple/growing family or investor looking to purchase in the area. The property briefly comprises of a spacious open plan kitc...",
+        "phone_number": "0191 625 0242",
+        "propertySubType": "Terraced",
+        "bedrooms": "2",
         "bathrooms": "1",
         "displayStatus": null,
-        "addedOrReduced": "Reduced on 10/12/2024 by Bronte Estate Agents, Queensbury"
+        "addedOrReduced": "Reduced on 24/06/2024 by Pattinson Estate Agents, Auction"
     },
     {
         "price": "£50,000",
@@ -4594,6 +4582,18 @@
         "bathrooms": "1",
         "displayStatus": "SOLD STC",
         "addedOrReduced": "Reduced on 25/10/2024 by Hamilton Bower, Northowram"
+    },
+    {
+        "price": "£50,000",
+        "price_qualifier": "Guide Price*",
+        "displayAddress": "Napier Street, Queensbury",
+        "summary": "** FOR SALE BY AUCTION ** Starting bid £50,000 ** ONE BEDROOM END BACK TO BACK TERRACE WITH ADDITIONAL ATTIC ROOM. NO ONWARD CHAIN, SITUATED IN THE HEART OF QUEENSBURY, BD13, IDEAL FOR A BUY TO LET INVESTMENT!",
+        "phone_number": "01274 015303",
+        "propertySubType": "End of Terrace",
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "displayStatus": null,
+        "addedOrReduced": "Reduced on 10/12/2024 by Bronte Estate Agents, Queensbury"
     },
     {
         "price": "£45,000",

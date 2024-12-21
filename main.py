@@ -170,7 +170,7 @@ def fetch_with_selenium(url, driver_path):
 
         # Wait up to 10 seconds for the popup or important elements
         try:
-            WebDriverWait(driver, 10).until(
+            WebDriverWait(driver, 15).until(
                 EC.presence_of_element_located((By.ID, "onetrust-banner-sdk"))
             )
             print("Popup detected, stopping page load...")
@@ -189,7 +189,6 @@ def fetch_with_selenium(url, driver_path):
         driver.quit()
         print("ChromeDriver closed.")
 
-
 # Main function
 def main(url_file, driver_path, output_json_file, output_csv_file):
     all_properties = []
@@ -202,22 +201,31 @@ def main(url_file, driver_path, output_json_file, output_csv_file):
 
     # Process each URL
     for url in urls:
-        print(f"Processing {url}")
-        properties = fetch_with_selenium(url, driver_path)
-        all_properties.extend(properties)
+        try:
+            print(f"Processing {url}")
+            properties = fetch_with_selenium(url, driver_path)
+            all_properties.extend(properties)
 
-    # Save all properties to JSON
+            # Save intermediate results after processing each URL
+            save_to_json(all_properties, output_json_file)
+            save_to_csv(all_properties, output_csv_file)
+            print(f"Intermediate results saved for {url}")
+
+        except Exception as e:
+            print(f"Error processing URL {url}: {str(e)}")
+            print("Continuing with next URL...")
+
+    # Final save
     save_to_json(all_properties, output_json_file)
-
-    # Save all properties to CSV
     save_to_csv(all_properties, output_csv_file)
 
     # Normalize and save JSON
     normalize_and_save_json(output_json_file, "normalized_" + output_csv_file)
+    print("All URLs processed. Final results saved.")
 
 
 if __name__ == "__main__":
-    url_file = "list_of_urls1.txt"
+    url_file = "list_of_urls.txt"
     driver_path = "drivers/chromedriver"
     output_json_file = "properties.json"
     output_csv_file = "properties.csv"
