@@ -31,54 +31,42 @@ def extract_property_details(property_element):
         property_data = {}
         # Extract price
         try:
-            price = property_element.find_element(
-                By.CLASS_NAME, "propertyCard-priceValue"
-            ).text
+            price = property_element.find_element(By.CLASS_NAME, "propertyCard-priceValue").text
             property_data["price"] = price
         except:
             property_data["price"] = None
 
         # Extract price qualifier (e.g., Guide Price)
         try:
-            price_qualifier = property_element.find_element(
-                By.CLASS_NAME, "propertyCard-priceQualifier"
-            ).text
+            price_qualifier = property_element.find_element(By.CLASS_NAME, "propertyCard-priceQualifier").text
             property_data["price_qualifier"] = price_qualifier
         except:
             property_data["price_qualifier"] = None
 
         # Extract address
         try:
-            displayAddress = property_element.find_element(
-                By.CLASS_NAME, "propertyCard-address"
-            ).text
+            displayAddress = property_element.find_element(By.CLASS_NAME, "propertyCard-address").text
             property_data["displayAddress"] = displayAddress
         except:
             property_data["displayAddress"] = None
 
         # Extract summary
         try:
-            summary = property_element.find_element(
-                By.CLASS_NAME, "propertyCard-description"
-            ).text
+            summary = property_element.find_element(By.CLASS_NAME, "propertyCard-description").text
             property_data["summary"] = summary
         except:
             property_data["summary"] = None
 
         # Extract contact phone number
         try:
-            phone_number = property_element.find_element(
-                By.CLASS_NAME, "propertyCard-contactsPhoneNumber"
-            ).text
+            phone_number = property_element.find_element(By.CLASS_NAME, "propertyCard-contactsPhoneNumber").text
             property_data["phone_number"] = phone_number
         except:
             property_data["phone_number"] = None
 
         # Extract propertySubType, bedrooms, and bathrooms
         try:
-            property_info = property_element.find_element(
-                By.CLASS_NAME, "property-information"
-            )
+            property_info = property_element.find_element(By.CLASS_NAME, "property-information")
             spans = property_info.find_elements(By.CLASS_NAME, "text")
             property_data["propertySubType"] = spans[0].text if len(spans) > 0 else None
             property_data["bedrooms"] = spans[1].text if len(spans) > 1 else None
@@ -90,18 +78,14 @@ def extract_property_details(property_element):
 
         # Extract displayStatus
         try:
-            display_status_element = property_element.find_element(
-                By.CLASS_NAME, "propertyCard-tagTitle"
-            )
+            display_status_element = property_element.find_element(By.CLASS_NAME, "propertyCard-tagTitle")
             property_data["displayStatus"] = display_status_element.text
         except:
             property_data["displayStatus"] = None
 
         # Extract addedOrReduced
         try:
-            added_or_reduced_element = property_element.find_element(
-                By.CLASS_NAME, "propertyCard-branchSummary"
-            )
+            added_or_reduced_element = property_element.find_element(By.CLASS_NAME, "propertyCard-branchSummary")
             property_data["addedOrReduced"] = added_or_reduced_element.text
         except:
             property_data["addedOrReduced"] = None
@@ -225,7 +209,7 @@ def main(url_file, driver_path, output_json_file, output_csv_file):
 
 
 if __name__ == "__main__":
-    url_file = "list_of_urls.txt"
+    url_file = "list_of_urls1.txt"
     driver_path = "drivers/chromedriver"
     output_json_file = "properties.json"
     output_csv_file = "properties.csv"

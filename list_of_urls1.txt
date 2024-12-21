@@ -1,4 +1,2 @@
 https://www.rightmove.co.uk/property-for-sale/find.html?index=500&numberOfPropertiesPerPage=500&includeSSTC=on&locationIdentifier=OUTCODE%5E1360
 https://www.rightmove.co.uk/property-to-rent/find.html?locationIdentifier=OUTCODE%5E1360&numberOfPropertiesPerPage=500&index=500
-https://www.rightmove.co.uk/commercial-property-for-sale/find.html?locationIdentifier=OUTCODE%5E1360&numberOfPropertiesPerPage=500&index=500
-https://www.rightmove.co.uk/property-for-sale/find.html?index=500&numberOfPropertiesPerPage=500&includeSSTC=on&locationIdentifier=OUTCODE%5E159
