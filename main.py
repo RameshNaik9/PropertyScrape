@@ -209,7 +209,7 @@ def main(url_file, driver_path, output_json_file, output_csv_file):
 
 
 if __name__ == "__main__":
-    url_file = "list_of_urls1.txt"
+    url_file = "list_of_urls.txt"
     driver_path = "drivers/chromedriver"
     output_json_file = "properties.json"
     output_csv_file = "properties.csv"
