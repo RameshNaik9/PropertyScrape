@@ -6,6 +6,8 @@ import pandas as pd
 import json
 import time
 from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 
 # Function to handle cookies popup
@@ -157,7 +159,6 @@ def normalize_and_save_json(json_file, csv_file):
     except Exception as e:
         print(f"Error normalizing JSON data: {str(e)}")
 
-
 # Function to fetch content using Selenium
 def fetch_with_selenium(url, driver_path):
     service = Service(driver_path)
@@ -166,9 +167,24 @@ def fetch_with_selenium(url, driver_path):
     try:
         driver.get(url)
         print(f"Opened URL: {url}")
+
+        # Wait up to 10 seconds for the popup or important elements
+        try:
+            WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.ID, "onetrust-banner-sdk"))
+            )
+            print("Popup detected, stopping page load...")
+            driver.execute_script("window.stop();")  # Stop page loading
+        except Exception as e:
+            print("No popup detected or timed out waiting for popup:", str(e))
+
+        # Check and accept cookies if available
         check_and_accept_cookies(driver)
+
+        # Proceed to scrape the properties
         properties = scrape_properties(driver)
         return properties
+
     finally:
         driver.quit()
         print("ChromeDriver closed.")
