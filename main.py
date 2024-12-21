@@ -47,21 +47,21 @@ def extract_property_details(property_element):
 
         # Extract address
         try:
-            address = property_element.find_element(
+            displayAddress = property_element.find_element(
                 By.CLASS_NAME, "propertyCard-address"
             ).text
-            property_data["address"] = address
+            property_data["displayAddress"] = displayAddress
         except:
-            property_data["address"] = None
+            property_data["displayAddress"] = None
 
-        # Extract description
+        # Extract summary
         try:
-            description = property_element.find_element(
+            summary = property_element.find_element(
                 By.CLASS_NAME, "propertyCard-description"
             ).text
-            property_data["description"] = description
+            property_data["summary"] = summary
         except:
-            property_data["description"] = None
+            property_data["summary"] = None
 
         # Extract contact phone number
         try:
@@ -71,6 +71,20 @@ def extract_property_details(property_element):
             property_data["phone_number"] = phone_number
         except:
             property_data["phone_number"] = None
+
+        # Extract propertySubType, bedrooms, and bathrooms
+        try:
+            property_info = property_element.find_element(
+                By.CLASS_NAME, "property-information"
+            )
+            spans = property_info.find_elements(By.CLASS_NAME, "text")
+            property_data["propertySubType"] = spans[0].text if len(spans) > 0 else None
+            property_data["bedrooms"] = spans[1].text if len(spans) > 1 else None
+            property_data["bathrooms"] = spans[2].text if len(spans) > 2 else None
+        except:
+            property_data["propertySubType"] = None
+            property_data["bedrooms"] = None
+            property_data["bathrooms"] = None
 
         return property_data
 
